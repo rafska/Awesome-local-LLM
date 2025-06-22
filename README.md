@@ -14,6 +14,12 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## LLMs
 
+### Explorers, Benchmarks, Leaderboards
+
+- [LLM Explorer](https://llm-explorer.com/) - explore list of the open-source LLM models
+- [Dubesor LLM Benchmark table](https://dubesor.de/benchtable) - small-scale manual performance comparison benchmark
+- [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
+
 ### Providers
 
 - [Qwen](https://huggingface.co/Qwen) - powered by Alibaba Cloud
