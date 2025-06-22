@@ -24,9 +24,9 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Specific models
 
-- [Devstral-Small-2505](https://huggingface.co/mistralai/Devstral-Small-2505) - an agentic LLM for software engineering tasks
-- [Magistral-Small-2506](https://huggingface.co/mistralai/Magistral-Small-2506) - a Mistral Small 3.1 (2503) with added reasoning capabilities
 - [Mistral-Small-3.2-24B-Instruct-2506](https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506) - a versatile model designed to handle a wide range of generative AI tasks, including instruction following, conversational assistance, image understanding, and function calling
+- [Magistral-Small-2506](https://huggingface.co/mistralai/Magistral-Small-2506) - a Mistral Small 3.1 (2503) with added reasoning capabilities
+- [Devstral-Small-2505](https://huggingface.co/mistralai/Devstral-Small-2505) - an agentic LLM for software engineering tasks finetuned from Mistral-Small-3.1
 - [Mellum-4b-base](https://huggingface.co/JetBrains/Mellum-4b-base) - an LLM optimized for code-related tasks
 - [Jan-nano](https://huggingface.co/Menlo/Jan-nano) - a compact 4-billion parameter language model specifically designed and trained for deep research tasks
 
