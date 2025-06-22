@@ -1,10 +1,16 @@
 # Awesome-local-LLM
 A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally
 
-## Launchers
+## Frontend
+
+- [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+## Backend
 
 - [ollama](https://github.com/ollama/ollama) - get up and running with LLMs
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [vllm](https://github.com/vllm-project/vllm) - a high-throughput and memory-efficient inference and serving engine for LLMs
+- [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) - a lightweight vLLM implementation built from scratch
 
 ## LLMs
 
@@ -20,6 +26,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - [Devstral-Small-2505](https://huggingface.co/mistralai/Devstral-Small-2505) - an agentic LLM for software engineering tasks
 - [Magistral-Small-2506](https://huggingface.co/mistralai/Magistral-Small-2506) - a Mistral Small 3.1 (2503) with added reasoning capabilities
+- [Mistral-Small-3.2-24B-Instruct-2506](https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506) - a versatile model designed to handle a wide range of generative AI tasks, including instruction following, conversational assistance, image understanding, and function calling
 - [Mellum-4b-base](https://huggingface.co/JetBrains/Mellum-4b-base) - an LLM optimized for code-related tasks
 - [Jan-nano](https://huggingface.co/Menlo/Jan-nano) - a compact 4-billion parameter language model specifically designed and trained for deep research tasks
 
@@ -36,6 +43,14 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [JetsonHacks](https://www.youtube.com/@JetsonHacks) - information about developing on NVIDIA Jetson Development Kits
 - [Miyconst](https://www.youtube.com/@Miyconst) - tests of various types of hardware capable of running LLMs
 - [Alex Ziskind](https://www.youtube.com/@AZisk) - tests of pcs, laptops, gpus etc. capable of running LLMs
+
+## Tutorials
+
+- [Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering) - a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies
+- [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - tutorials and implementations for various Generative AI Agent techniques
+- [Agents towards production](https://github.com/NirDiamant/agents-towards-production) - end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launche
+- [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) - various advanced techniques for Retrieval-Augmented Generation (RAG) systems
+- [Controllable RAG Agent](https://github.com/NirDiamant/Controllable-RAG-Agent) - an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering that uses sophisticated graph based algorithm to handle the tasks
 
 ## Communities
 
