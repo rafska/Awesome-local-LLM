@@ -51,6 +51,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ## Tools
 
 - [void](https://github.com/voideditor/void) - an open-source Cursor alternative, use AI agents on your codebase, checkpoint and visualize changes, and bring any model or host locally
+- [Context7 MCP Server](https://github.com/upstash/context7) - up-to-date code documentation for LLMs and AI code editors
+- [Playwright MCP server](https://github.com/microsoft/playwright-mcp) - an MCP server that provides browser automation capabilities using Playwright
 
 ## Hardware
 
