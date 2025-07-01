@@ -38,6 +38,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Magistral-Small-2506](https://huggingface.co/mistralai/Magistral-Small-2506) - a Mistral Small 3.1 (2503) with added reasoning capabilities
 - [Devstral-Small-2505](https://huggingface.co/mistralai/Devstral-Small-2505) - an agentic LLM for software engineering tasks finetuned from Mistral-Small-3.1
 - [Mellum-4b-base](https://huggingface.co/JetBrains/Mellum-4b-base) - an LLM optimized for code-related tasks
+- [OlympicCoder-32B](https://huggingface.co/open-r1/OlympicCoder-32B) - a code model that achieves very strong performance on competitive coding benchmarks such as LiveCodeBench and the 2024 International Olympiad in Informatics
 - [Jan-nano](https://huggingface.co/Menlo/Jan-nano) - a compact 4-billion parameter language model specifically designed and trained for deep research tasks
 
 ## Autonomous Coding Agents
