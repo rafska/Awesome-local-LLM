@@ -42,6 +42,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Phi-4-mini-instruct ](https://huggingface.co/microsoft/Phi-4-mini-instruct) - a lightweight open model built upon synthetic data and filtered publicly available websites
 - [Granite-3.3-2B-Instruct](https://huggingface.co/ibm-granite/granite-3.3-2b-instruct) - an LLM fine-tuned for improved reasoning and instruction-following capabilities
 - [Jan-nano](https://huggingface.co/Menlo/Jan-nano) - a compact 4-billion parameter language model specifically designed and trained for deep research tasks
+- [Jan-nano-128k](https://huggingface.co/Menlo/Jan-nano-128k) - an enhanced version of Jan-nano features a native 128k context window that enables deeper, more comprehensive research capabilities without the performance degradation typically associated with context extension method
 
 ## Autonomous Coding Agents
 
