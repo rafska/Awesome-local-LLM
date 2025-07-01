@@ -39,6 +39,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Devstral-Small-2505](https://huggingface.co/mistralai/Devstral-Small-2505) - an agentic LLM for software engineering tasks finetuned from Mistral-Small-3.1
 - [Mellum-4b-base](https://huggingface.co/JetBrains/Mellum-4b-base) - an LLM optimized for code-related tasks
 - [OlympicCoder-32B](https://huggingface.co/open-r1/OlympicCoder-32B) - a code model that achieves very strong performance on competitive coding benchmarks such as LiveCodeBench and the 2024 International Olympiad in Informatics
+- [Phi-4-mini-instruct ](https://huggingface.co/microsoft/Phi-4-mini-instruct) - a lightweight open model built upon synthetic data and filtered publicly available websites
+- [Granite-3.3-2B-Instruct](https://huggingface.co/ibm-granite/granite-3.3-2b-instruct) - an LLM fine-tuned for improved reasoning and instruction-following capabilities
 - [Jan-nano](https://huggingface.co/Menlo/Jan-nano) - a compact 4-billion parameter language model specifically designed and trained for deep research tasks
 
 ## Autonomous Coding Agents
@@ -48,6 +50,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [continue](https://github.com/continuedev/continue) - create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - a whole dev team of AI agents in your code editor
 - [opencode](https://github.com/opencode-ai/opencode) - a powerful AI coding agent built for the terminal
+- [kilocode](https://github.com/Kilo-Org/kilocode) - open source AI coding assistant for planning, building, and fixing code
 
 ## Tools
 
