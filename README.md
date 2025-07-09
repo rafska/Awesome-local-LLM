@@ -14,7 +14,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## Full Stack
 
-- [LM Studio](https://lmstudio.ai/) - discorver, download and run local LLMs
+- [LM Studio](https://lmstudio.ai/) - discover, download and run local LLMs
 
 ## LLMs
 
@@ -81,6 +81,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) - a practical guide to building agents by OpenAI
 - [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) - various advanced techniques for Retrieval-Augmented Generation (RAG) systems
 - [Controllable RAG Agent](https://github.com/NirDiamant/Controllable-RAG-Agent) - an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering that uses sophisticated graph based algorithm to handle the tasks
+- [Self-hosted AI coding that just works](https://www.reddit.com/r/LocalLLaMA/comments/1lt4y1z/selfhosted_ai_coding_that_just_works/)
 
 ## Communities
 
