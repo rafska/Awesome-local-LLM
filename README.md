@@ -58,6 +58,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ## Tools
 
 - [void](https://github.com/voideditor/void) - an open-source Cursor alternative, use AI agents on your codebase, checkpoint and visualize changes, and bring any model or host locally
+- [SurfSense](https://github.com/MODSetter/SurfSense) -an open-source alternative to NotebookLM / Perplexity / Glean
+- [open-notebook](https://github.com/lfnovo/open-notebook) - an open-source implementation of Notebook LM with more flexibility and features
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - an open-source framework to build, manage and run useful Autonomous AI Agents
