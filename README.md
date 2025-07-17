@@ -37,6 +37,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Mistral-Small-3.2-24B-Instruct-2506](https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506) - a versatile model designed to handle a wide range of generative AI tasks, including instruction following, conversational assistance, image understanding, and function calling
 - [Magistral-Small-2506](https://huggingface.co/mistralai/Magistral-Small-2506) - a Mistral Small 3.1 (2503) with added reasoning capabilities
 - [Devstral-Small-2507](https://huggingface.co/mistralai/Devstral-Small-2507) - an agentic LLM for software engineering tasks finetuned from Mistral-Small-3.1
+- [Voxtral-Small-24B-2507](https://huggingface.co/mistralai/Voxtral-Small-24B-2507) - an enhancement of Mistral Small 3, incorporating state-of-the-art audio input capabilities while retaining best-in-class text performance
 - [Mellum-4b-base](https://huggingface.co/JetBrains/Mellum-4b-base) - an LLM optimized for code-related tasks
 - [OlympicCoder-32B](https://huggingface.co/open-r1/OlympicCoder-32B) - a code model that achieves very strong performance on competitive coding benchmarks such as LiveCodeBench and the 2024 International Olympiad in Informatics
 - [NextCoder](https://huggingface.co/collections/microsoft/nextcoder-6815ee6bfcf4e42f20d45028) - a family of code-editing LLMs developed using the Qwen2.5-Coder Instruct variants as base
