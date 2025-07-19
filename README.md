@@ -11,6 +11,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [vllm](https://github.com/vllm-project/vllm) - a high-throughput and memory-efficient inference and serving engine for LLMs
 - [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) - a lightweight vLLM implementation built from scratch
+- [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60 
 
 ## Full Stack
 
