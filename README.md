@@ -109,6 +109,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## Communities
 
-- [LocalLLaMA](https://www.reddit.com/r/LocalLLaMA)
-- [LocalLLM](https://www.reddit.com/r/LocalLLM)
-- [LLMDevs](https://www.reddit.com/r/LLMDevs)
+- <img src="https://img.shields.io/reddit/subreddit-subscribers/LocalLLaMA?style=social" width="130"/> [LocalLLaMA](https://www.reddit.com/r/LocalLLaMA)
+- <img src="https://img.shields.io/reddit/subreddit-subscribers/LocalLLM?style=social" width="130"/> [LocalLLM](https://www.reddit.com/r/LocalLLM)
+- <img src="https://img.shields.io/reddit/subreddit-subscribers/LLMDevs?style=social" width="130"/> [LLMDevs](https://www.reddit.com/r/LLMDevs)
