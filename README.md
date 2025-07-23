@@ -80,7 +80,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## Tutorials
 
-### Prompts
+### Prompt Engineering
 
 - [Prompt Engineering by NirDiamant](https://github.com/NirDiamant/Prompt_Engineering) - a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" width="60"/> [Prompting guide 101](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf) - a quick-start handbook for effective prompts by Google
@@ -90,6 +90,11 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/Anthropic-%23191919?logo=anthropic" width="70"/> [Real world prompting](https://github.com/anthropics/courses/blob/master/real_world_prompting/README.md) - real world prompting tutorial by Anthropic
 - <img src="https://img.shields.io/badge/Anthropic-%23191919?logo=anthropic" width="70"/> [Prompt evaluations](https://github.com/anthropics/courses/blob/master/prompt_evaluations/README.md) - prompt evaluations course by Anthropic
 - <img src="https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social" width="75"/> [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - a collection of system prompts extracted from AI tools
+
+### Context Engineering
+
+- <img src="https://img.shields.io/github/stars/davidkimai/Context-Engineering?style=social" width="75"/> [Context-Engineering](https://github.com/davidkimai/Context-Engineering) - a frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization
+- <img src="https://img.shields.io/github/stars/Meirtz/Awesome-Context-Engineering?style=social" width="75"/> [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) - a comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems
 
 ### Agents
 
