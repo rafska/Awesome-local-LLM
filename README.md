@@ -103,7 +103,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" width="60"/> [601 real-world gen AI use cases](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders) - 601 real-world gen AI use cases from the world's leading organizations by Google
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" width="60"/> [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) - a practical guide to building agents by OpenAI
 
-### RAG
+### Retrieval-Augmented Generation
 
 - <img src="https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=social" width="75"/> [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) - various advanced techniques for Retrieval-Augmented Generation (RAG) systems
 - <img src="https://img.shields.io/github/stars/NirDiamant/Controllable-RAG-Agent?style=social" width="75"/> [Controllable RAG Agent](https://github.com/NirDiamant/Controllable-RAG-Agent) - an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering that uses sophisticated graph based algorithm to handle the tasks
