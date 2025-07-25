@@ -72,6 +72,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2?style=social" height="17"/> [OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - exploration to advanced multimodal generation
 - <img src="https://img.shields.io/github/stars/TheAhmadOsman/4o-ghibli-at-home?style=social" height="17"/> [4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - a powerful, self-hosted AI photo stylizer built for performance and privacy
 - <img src="https://img.shields.io/github/stars/Roy3838/Observer?style=social" height="17"/> [Observer](https://github.com/Roy3838/Observer) - local open-source micro-agents that observe, log and react, all while keeping your data private and secure
+- <img src="https://img.shields.io/github/stars/presenton/presenton?style=social" height="17"/> [presenton](https://github.com/presenton/presenton) - an open-source AI presentation generator and API
 
 ## Hardware
 
@@ -119,6 +120,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/reddit/subreddit-subscribers/LocalLLaMA?style=social" height="17"/> [LocalLLaMA](https://www.reddit.com/r/LocalLLaMA)
 - <img src="https://img.shields.io/reddit/subreddit-subscribers/LocalLLM?style=social" height="17"/> [LocalLLM](https://www.reddit.com/r/LocalLLM)
 - <img src="https://img.shields.io/reddit/subreddit-subscribers/LLMDevs?style=social" height="17"/> [LLMDevs](https://www.reddit.com/r/LLMDevs)
+- <img src="https://img.shields.io/reddit/subreddit-subscribers/LocalAIServers?style=social" height="17"/> [LocalAIServers](https://www.reddit.com/r/LocalAIServers/)
 
 # Contributing
 
