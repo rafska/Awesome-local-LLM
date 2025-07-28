@@ -25,11 +25,12 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Explorers, Benchmarks, Leaderboards
 
+- [AI Models & API Providers Analysis](https://artificialanalysis.ai/) - understand the AI landscape to choose the best model and provider for your use case
 - [LLM Explorer](https://llm-explorer.com/) - explore list of the open-source LLM models
 - [Dubesor LLM Benchmark table](https://dubesor.de/benchtable) - small-scale manual performance comparison benchmark
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
 
-### Providers
+### Model providers
 
 - [Qwen](https://huggingface.co/Qwen) - powered by Alibaba Cloud
 - [Mistral AI](https://huggingface.co/mistralai) - a pioneering French artificial intelligence startup
