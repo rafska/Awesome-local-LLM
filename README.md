@@ -19,6 +19,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ## Full Stack
 
 - [LM Studio](https://lmstudio.ai/) - discover, download and run local LLMs
+- <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration 
 
 ## Large Language Models
 
