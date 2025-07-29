@@ -1,11 +1,12 @@
 # Awesome-local-LLM
 A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally
 
-## Frontend
+## Inference platforms
 
-- <img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social" height="17"/> [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [LM Studio](https://lmstudio.ai/) - discover, download and run local LLMs
+- <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration
 
-## Backend
+## Inference engines
 
 - <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" height="17"/> [ollama](https://github.com/ollama/ollama) - get up and running with LLMs
 - <img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social" height="17"/> [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
@@ -16,10 +17,9 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/FastFlowLM/FastFlowLM?style=social" height="17"/> [FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - run LLMs on AMD Ryzen™ AI NPUs
 - <img src="https://img.shields.io/github/stars/sgl-project/sglang?style=social" height="17"/> [sglang](https://github.com/sgl-project/sglang) - a fast serving framework for large language models and vision language models
 
-## Full Stack
+## User Interfaces
 
-- [LM Studio](https://lmstudio.ai/) - discover, download and run local LLMs
-- <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration 
+- <img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social" height="17"/> [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Large Language Models
 
