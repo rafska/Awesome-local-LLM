@@ -40,6 +40,9 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Specific models
 
+- [Qwen3](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) - a collection of the latest generation Qwen LLMs
+- [Qwen3-Coder](https://huggingface.co/collections/Qwen/qwen3-coder-687fc861e53c939e52d52d10) - a collection of the Qwen's most agentic code models to date
+- <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17"/> [OpenAI-o3-open](https://www.youtube.com/watch?v=hhWwFUtDAJo) - a very first OpenAI's open weight LLM model
 - [Mistral-Small-3.2-24B-Instruct-2506](https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506) - a versatile model designed to handle a wide range of generative AI tasks, including instruction following, conversational assistance, image understanding, and function calling
 - [Magistral-Small-2507](https://huggingface.co/mistralai/Magistral-Small-2507) - a Mistral Small 3.1 (2503) with added reasoning capabilities
 - [Devstral-Small-2507](https://huggingface.co/mistralai/Devstral-Small-2507) - an agentic LLM for software engineering tasks fine-tuned from Mistral-Small-3.1
@@ -47,9 +50,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Mellum-4b-base](https://huggingface.co/JetBrains/Mellum-4b-base) - an LLM optimized for code-related tasks
 - [OlympicCoder-32B](https://huggingface.co/open-r1/OlympicCoder-32B) - a code model that achieves very strong performance on competitive coding benchmarks such as LiveCodeBench and the 2024 International Olympiad in Informatics
 - [NextCoder](https://huggingface.co/collections/microsoft/nextcoder-6815ee6bfcf4e42f20d45028) - a family of code-editing LLMs developed using the Qwen2.5-Coder Instruct variants as base
-- [Qwen3](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) - a collection of the latest generation Qwen LLMs
-- [Qwen3-Coder](https://huggingface.co/collections/Qwen/qwen3-coder-687fc861e53c939e52d52d10) - a collection of the Qwen's most agentic code models to date
-- <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17"/> [OpenAI-o3-open](https://www.youtube.com/watch?v=hhWwFUtDAJo) - a very first OpenAI's open weight LLM model
 - [GLM-4.5](https://huggingface.co/collections/zai-org/glm-45-687c621d34bda8c9e4bf503b) - a collection of hybrid reasoning models designed for intelligent agents
 - [Phi-4-mini-instruct](https://huggingface.co/microsoft/Phi-4-mini-instruct) - a lightweight open model built upon synthetic data and filtered publicly available websites
 - [Granite-3.3-2B-Instruct](https://huggingface.co/ibm-granite/granite-3.3-2b-instruct) - an LLM fine-tuned for improved reasoning and instruction-following capabilities
