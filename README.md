@@ -48,6 +48,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [OlympicCoder-32B](https://huggingface.co/open-r1/OlympicCoder-32B) - a code model that achieves very strong performance on competitive coding benchmarks such as LiveCodeBench and the 2024 International Olympiad in Informatics
 - [NextCoder](https://huggingface.co/collections/microsoft/nextcoder-6815ee6bfcf4e42f20d45028) - a family of code-editing LLMs developed using the Qwen2.5-Coder Instruct variants as base
 - [Qwen3-Coder-480B-A35B-Instruct](https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct) - Qwen's most agentic code model to date
+- <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17"/> [OpenAI-o3-open](https://www.youtube.com/watch?v=hhWwFUtDAJo) - a very first OpenAI's open weight LLM model
 - [GLM-4.5](https://huggingface.co/collections/zai-org/glm-45-687c621d34bda8c9e4bf503b) - a collection of hybrid reasoning models designed for intelligent agents
 - [Phi-4-mini-instruct](https://huggingface.co/microsoft/Phi-4-mini-instruct) - a lightweight open model built upon synthetic data and filtered publicly available websites
 - [Granite-3.3-2B-Instruct](https://huggingface.co/ibm-granite/granite-3.3-2b-instruct) - an LLM fine-tuned for improved reasoning and instruction-following capabilities
