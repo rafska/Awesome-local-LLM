@@ -11,6 +11,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" height="17"/> [ollama](https://github.com/ollama/ollama) - get up and running with LLMs
 - <img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social" height="17"/> [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - <img src="https://img.shields.io/github/stars/ikawrakow/ik_llama.cpp?style=social" height="17"/> [ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
+- <img src="https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social" height="17"/> [koboldcpp](https://github.com/LostRuins/koboldcpp) - run GGUF models easily with a KoboldAI UI
 - <img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social" height="17"/> [vllm](https://github.com/vllm-project/vllm) - a high-throughput and memory-efficient inference and serving engine for LLMs
 - <img src="https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=social" height="17"/> [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) - a lightweight vLLM implementation built from scratch
 - <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
@@ -35,6 +36,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Qwen](https://huggingface.co/Qwen) - powered by Alibaba Cloud
 - [Mistral AI](https://huggingface.co/mistralai) - a pioneering French artificial intelligence startup
 - [Unsloth AI](https://huggingface.co/unsloth) - focusing on making AI more accessible to everyone (GGUFs etc.)
+- [bartowski](https://huggingface.co/bartowski) - providing GGUF versions of popular LLMs
 - [Beijing Academy of Artificial Intelligence](https://huggingface.co/BAAI) - a private non-profit organization engaged in AI research and development
 - [Open Thoughts](https://huggingface.co/open-thoughts) - a team of researchers and engineers curating the best open reasoning datasets
 
