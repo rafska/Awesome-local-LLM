@@ -70,6 +70,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/continuedev/continue?style=social" height="17"/> [continue](https://github.com/continuedev/continue) - create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - <img src="https://img.shields.io/github/stars/voideditor/void?style=social" height="17"/> [void](https://github.com/voideditor/void) - an open-source Cursor alternative, use AI agents on your codebase, checkpoint and visualize changes, and bring any model or host locally
 - <img src="https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social" height="17"/> [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - a whole dev team of AI agents in your code editor
+- <img src="https://img.shields.io/github/stars/block/goose?style=social" height="17"/> [goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions 
 - <img src="https://img.shields.io/github/stars/sst/opencode?style=social" height="17"/> [opencode](https://github.com/sst/opencode) - a AI coding agent built for the terminal
 - <img src="https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social" height="17"/> [kilocode](https://github.com/Kilo-Org/kilocode) - open source AI coding assistant for planning, building, and fixing code
 
@@ -115,6 +116,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Research
 
+- <img src="https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social" height="17"/> [gpt-researcherer](https://github.com/assafelovic/gpt-researcher) - an LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations
+- <img src="https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=social" height="17"/> [local-deep-research](https://github.com/LearningCircuit/local-deep-research) - an AI-powered research assistant for deep, iterative research
 - <img src="https://img.shields.io/github/stars/MODSetter/SurfSense?style=social" height="17"/> [SurfSense](https://github.com/MODSetter/SurfSense) - an open-source alternative to NotebookLM / Perplexity / Glean
 - <img src="https://img.shields.io/github/stars/lfnovo/open-notebook?style=social" height="17"/> [open-notebook](https://github.com/lfnovo/open-notebook) - an open-source implementation of Notebook LM with more flexibility and features
 
@@ -125,6 +128,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Miscellaneous
 
+- <img src="https://img.shields.io/github/stars/vanna-ai/vanna?style=social" height="17"/> [vanna](https://github.com/vanna-ai/vanna) - an open-source Python RAG framework for SQL generation and related functionality
 - <img src="https://img.shields.io/github/stars/TheAhmadOsman/4o-ghibli-at-home?style=social" height="17"/> [4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - a powerful, self-hosted AI photo stylizer built for performance and privacy
 - <img src="https://img.shields.io/github/stars/Roy3838/Observer?style=social" height="17"/> [Observer](https://github.com/Roy3838/Observer) - local open-source micro-agents that observe, log and react, all while keeping your data private and secure
 - <img src="https://img.shields.io/github/stars/presenton/presenton?style=social" height="17"/> [presenton](https://github.com/presenton/presenton) - an open-source AI presentation generator and API
