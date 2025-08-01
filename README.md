@@ -118,6 +118,11 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/MODSetter/SurfSense?style=social" height="17"/> [SurfSense](https://github.com/MODSetter/SurfSense) - an open-source alternative to NotebookLM / Perplexity / Glean
 - <img src="https://img.shields.io/github/stars/lfnovo/open-notebook?style=social" height="17"/> [open-notebook](https://github.com/lfnovo/open-notebook) - an open-source implementation of Notebook LM with more flexibility and features
 
+### Training and Fine-tuning
+
+- <img src="https://img.shields.io/github/stars/kiln-ai/kiln?style=social" height="17"/> [Kiln](https://github.com/kiln-ai/kiln) - the easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets
+- <img src="https://img.shields.io/github/stars/e-p-armstrong/augmentoolkit?style=social" height="17"/> [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - train an open-source LLM on new facts
+
 ### Miscellaneous
 
 - <img src="https://img.shields.io/github/stars/TheAhmadOsman/4o-ghibli-at-home?style=social" height="17"/> [4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - a powerful, self-hosted AI photo stylizer built for performance and privacy
@@ -129,8 +134,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/badboysm890/ClaraVerse?style=social" height="17"/> [ClaraVerse](https://github.com/badboysm890/ClaraVerse) - privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation
 - <img src="https://img.shields.io/github/stars/upstash/context7?style=social" height="17"/> [Context7 MCP Server](https://github.com/upstash/context7) - up-to-date code documentation for LLMs and AI code editors
 - <img src="https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social" height="17"/> [Playwright MCP server](https://github.com/microsoft/playwright-mcp) - an MCP server that provides browser automation capabilities using Playwright
-- <img src="https://img.shields.io/github/stars/kiln-ai/kiln?style=social" height="17"/> [Kiln](https://github.com/kiln-ai/kiln) - the easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets
-- <img src="https://img.shields.io/github/stars/e-p-armstrong/augmentoolkit?style=social" height="17"/> [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - train an open-source LLM on new facts
 - <img src="https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2?style=social" height="17"/> [OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - exploration to advanced multimodal generation
 
 ## Hardware
