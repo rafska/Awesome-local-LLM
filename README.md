@@ -71,11 +71,23 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## Tools
 
+### Agent Frameworks
+
+- <img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" height="17"/> [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows
+- <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" height="17"/> [langchain](https://github.com/langchain-ai/langchain) - build context-aware reasoning applications
+- <img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social" height="17"/> [langflow](https://github.com/langflow-ai/langflow) - a powerful tool for building and deploying AI-powered agents and workflows
+- <img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" height="17"/> [autogen](https://github.com/microsoft/autogen) - a programming framework for agentic AI
+- <img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=social" height="17"/> [crewAI](https://github.com/crewAIInc/crewAI) - a framework for orchestrating role-playing, autonomous AI agents
+- <img src="https://img.shields.io/github/stars/agno-agi/agno?style=social" height="17"/> [agno](https://github.com/agno-agi/agno) - a full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning
+- <img src="https://img.shields.io/github/stars/camel-ai/camel?style=social" height="17"/> [camel](https://github.com/camel-ai/camel) - the first and the best multi-agent framework
+- <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17"/> <img src="https://img.shields.io/github/stars/openai/openai-agents-python?style=social" height="17"/> [openai-agents-python](https://github.com/openai/openai-agents-python) - a lightweight, powerful framework for multi-agent workflows
+
+### To categorize
+
+- <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
 - <img src="https://img.shields.io/github/stars/voideditor/void?style=social" height="17"/> [void](https://github.com/voideditor/void) - an open-source Cursor alternative, use AI agents on your codebase, checkpoint and visualize changes, and bring any model or host locally
 - <img src="https://img.shields.io/github/stars/MODSetter/SurfSense?style=social" height="17"/> [SurfSense](https://github.com/MODSetter/SurfSense) - an open-source alternative to NotebookLM / Perplexity / Glean
 - <img src="https://img.shields.io/github/stars/lfnovo/open-notebook?style=social" height="17"/> [open-notebook](https://github.com/lfnovo/open-notebook) - an open-source implementation of Notebook LM with more flexibility and features
-- <img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" height="17"/> [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows
-- <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
 - <img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social" height="17"/> [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - an open-source framework to build, manage and run useful Autonomous AI Agents
 - <img src="https://img.shields.io/github/stars/badboysm890/ClaraVerse?style=social" height="17"/> [ClaraVerse](https://github.com/badboysm890/ClaraVerse) - privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation
 - <img src="https://img.shields.io/github/stars/upstash/context7?style=social" height="17"/> [Context7 MCP Server](https://github.com/upstash/context7) - up-to-date code documentation for LLMs and AI code editors
