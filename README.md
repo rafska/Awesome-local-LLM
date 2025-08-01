@@ -82,6 +82,14 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/camel-ai/camel?style=social" height="17"/> [camel](https://github.com/camel-ai/camel) - the first and the best multi-agent framework
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17"/> <img src="https://img.shields.io/github/stars/openai/openai-agents-python?style=social" height="17"/> [openai-agents-python](https://github.com/openai/openai-agents-python) - a lightweight, powerful framework for multi-agent workflows
 
+### Computer Use
+
+- <img src="https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social" height="17"/> [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - a natural language interface for computers
+- <img src="https://img.shields.io/github/stars/microsoft/OmniParser?style=social" height="17"/> [OmniParser](https://github.com/microsoft/OmniParser) - a simple screen parsing tool towards pure vision based GUI agent
+- <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" height="17"/> [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - a framework to enable multimodal models to operate a computer
+- <img src="https://img.shields.io/github/stars/trycua/cua?style=social" height="17"/> [cua](https://github.com/trycua/cua) - the Docker Container for Computer-Use AI Agents
+- <img src="https://img.shields.io/github/stars/simular-ai/Agent-S?style=social" height="17"/> [Agent-S](https://github.com/simular-ai/Agent-S) - an open agentic framework that uses computers like a human
+
 ### To categorize
 
 - <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
