@@ -90,6 +90,14 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/trycua/cua?style=social" height="17"/> [cua](https://github.com/trycua/cua) - the Docker Container for Computer-Use AI Agents
 - <img src="https://img.shields.io/github/stars/simular-ai/Agent-S?style=social" height="17"/> [Agent-S](https://github.com/simular-ai/Agent-S) - an open agentic framework that uses computers like a human
 
+### Browser Automation
+
+- <img src="https://img.shields.io/github/stars/puppeteer/puppeteer?style=social" height="17"/> [puppeteer](https://github.com/puppeteer/puppeteer) - a JavaScript API for Chrome and Firefox
+- <img src="https://img.shields.io/github/stars/microsoft/playwright?style=social" height="17"/> [playwright](https://github.com/microsoft/playwright) - a framework for Web Testing and Automation
+- <img src="https://img.shields.io/github/stars/browser-use/browser-use?style=social" height="17"/> [browser-use](https://github.com/browser-use/browser-use) - make websites accessible for AI agents
+- <img src="https://img.shields.io/github/stars/mendableai/firecrawl?style=social" height="17"/> [firecrawl](https://github.com/mendableai/firecrawl) - turn entire websites into LLM-ready markdown or structured data
+- <img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" height="17"/> [stagehand](https://github.com/browserbase/stagehand) -  the AI Browser Automation Framework
+
 ### To categorize
 
 - <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
