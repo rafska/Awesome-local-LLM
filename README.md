@@ -98,6 +98,11 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/mendableai/firecrawl?style=social" height="17"/> [firecrawl](https://github.com/mendableai/firecrawl) - turn entire websites into LLM-ready markdown or structured data
 - <img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" height="17"/> [stagehand](https://github.com/browserbase/stagehand) -  the AI Browser Automation Framework
 
+### Memory Management
+
+- <img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" height="17"/> [mem0](https://github.com/mem0ai/mem0) - universal memory layer for AI Agents
+- <img src="https://img.shields.io/github/stars/letta-ai/letta?style=social" height="17"/> [letta](https://github.com/letta-ai/letta) - the stateful agents framework with memory, reasoning, and context management
+
 ### To categorize
 
 - <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
