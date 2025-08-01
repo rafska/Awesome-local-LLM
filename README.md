@@ -60,16 +60,18 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Jan-nano-128k](https://huggingface.co/Menlo/Jan-nano-128k) - an enhanced version of Jan-nano features a native 128k context window that enables deeper, more comprehensive research capabilities without the performance degradation typically associated with context extension method
 - [HunyuanWorld-1](https://huggingface.co/tencent/HunyuanWorld-1) - an open-source 3D world generation model
 
-## Autonomous Coding Agents
+## Tools
 
+### Coding Agents
+
+- <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
 - <img src="https://img.shields.io/github/stars/cline/cline?style=social" height="17"/> [cline](https://github.com/cline/cline) - autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way
 - <img src="https://img.shields.io/github/stars/Aider-AI/aider?style=social" height="17"/> [aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal
 - <img src="https://img.shields.io/github/stars/continuedev/continue?style=social" height="17"/> [continue](https://github.com/continuedev/continue) - create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+- <img src="https://img.shields.io/github/stars/voideditor/void?style=social" height="17"/> [void](https://github.com/voideditor/void) - an open-source Cursor alternative, use AI agents on your codebase, checkpoint and visualize changes, and bring any model or host locally
 - <img src="https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social" height="17"/> [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - a whole dev team of AI agents in your code editor
 - <img src="https://img.shields.io/github/stars/sst/opencode?style=social" height="17"/> [opencode](https://github.com/sst/opencode) - a AI coding agent built for the terminal
 - <img src="https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social" height="17"/> [kilocode](https://github.com/Kilo-Org/kilocode) - open source AI coding assistant for planning, building, and fixing code
-
-## Tools
 
 ### Agent Frameworks
 
@@ -112,8 +114,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### To categorize
 
-- <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
-- <img src="https://img.shields.io/github/stars/voideditor/void?style=social" height="17"/> [void](https://github.com/voideditor/void) - an open-source Cursor alternative, use AI agents on your codebase, checkpoint and visualize changes, and bring any model or host locally
 - <img src="https://img.shields.io/github/stars/MODSetter/SurfSense?style=social" height="17"/> [SurfSense](https://github.com/MODSetter/SurfSense) - an open-source alternative to NotebookLM / Perplexity / Glean
 - <img src="https://img.shields.io/github/stars/lfnovo/open-notebook?style=social" height="17"/> [open-notebook](https://github.com/lfnovo/open-notebook) - an open-source implementation of Notebook LM with more flexibility and features
 - <img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social" height="17"/> [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - an open-source framework to build, manage and run useful Autonomous AI Agents
