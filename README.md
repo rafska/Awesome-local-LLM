@@ -85,6 +85,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social" height="17"/> [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - an open-source framework to build, manage and run useful Autonomous AI Agents
 - <img src="https://img.shields.io/github/stars/camel-ai/camel?style=social" height="17"/> [camel](https://github.com/camel-ai/camel) - the first and the best multi-agent framework
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17"/> <img src="https://img.shields.io/github/stars/openai/openai-agents-python?style=social" height="17"/> [openai-agents-python](https://github.com/openai/openai-agents-python) - a lightweight, powerful framework for multi-agent workflows
+- <img src="https://img.shields.io/github/stars/badboysm890/ClaraVerse?style=social" height="17"/> [ClaraVerse](https://github.com/badboysm890/ClaraVerse) - privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation
 
 ### Computer Use
 
@@ -98,6 +99,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - <img src="https://img.shields.io/github/stars/puppeteer/puppeteer?style=social" height="17"/> [puppeteer](https://github.com/puppeteer/puppeteer) - a JavaScript API for Chrome and Firefox
 - <img src="https://img.shields.io/github/stars/microsoft/playwright?style=social" height="17"/> [playwright](https://github.com/microsoft/playwright) - a framework for Web Testing and Automation
+- <img src="https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social" height="17"/> [Playwright MCP server](https://github.com/microsoft/playwright-mcp) - an MCP server that provides browser automation capabilities using Playwright
 - <img src="https://img.shields.io/github/stars/browser-use/browser-use?style=social" height="17"/> [browser-use](https://github.com/browser-use/browser-use) - make websites accessible for AI agents
 - <img src="https://img.shields.io/github/stars/mendableai/firecrawl?style=social" height="17"/> [firecrawl](https://github.com/mendableai/firecrawl) - turn entire websites into LLM-ready markdown or structured data
 - <img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" height="17"/> [stagehand](https://github.com/browserbase/stagehand) -  the AI Browser Automation Framework
@@ -134,12 +136,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/TheAhmadOsman/4o-ghibli-at-home?style=social" height="17"/> [4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - a powerful, self-hosted AI photo stylizer built for performance and privacy
 - <img src="https://img.shields.io/github/stars/Roy3838/Observer?style=social" height="17"/> [Observer](https://github.com/Roy3838/Observer) - local open-source micro-agents that observe, log and react, all while keeping your data private and secure
 
-### To categorize
-
-- <img src="https://img.shields.io/github/stars/badboysm890/ClaraVerse?style=social" height="17"/> [ClaraVerse](https://github.com/badboysm890/ClaraVerse) - privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation
-- <img src="https://img.shields.io/github/stars/upstash/context7?style=social" height="17"/> [Context7 MCP Server](https://github.com/upstash/context7) - up-to-date code documentation for LLMs and AI code editors
-- <img src="https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social" height="17"/> [Playwright MCP server](https://github.com/microsoft/playwright-mcp) - an MCP server that provides browser automation capabilities using Playwright
-
 ## Hardware
 
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCiaQzXI5528Il6r2NNkrkJA?style=social" height="17"/> [Digital Spaceport](https://www.youtube.com/@DigitalSpaceport) - reviews of various builds designed for LLM inference
@@ -160,6 +156,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/Anthropic-%23191919?logo=anthropic" height="17"/> [Real world prompting](https://github.com/anthropics/courses/blob/master/real_world_prompting/README.md) - real world prompting tutorial by Anthropic
 - <img src="https://img.shields.io/badge/Anthropic-%23191919?logo=anthropic" height="17"/> [Prompt evaluations](https://github.com/anthropics/courses/blob/master/prompt_evaluations/README.md) - prompt evaluations course by Anthropic
 - <img src="https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social" height="17"/> [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - a collection of system prompts extracted from AI tools
+- <img src="https://img.shields.io/github/stars/upstash/context7?style=social" height="17"/> [Context7 MCP Server](https://github.com/upstash/context7) - up-to-date code documentation for LLMs and AI code editors
 
 ### Context Engineering
 
