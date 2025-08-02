@@ -121,6 +121,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - <img src="https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social" height="17"/> [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - an LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations
 - <img src="https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=social" height="17"/> [local-deep-research](https://github.com/LearningCircuit/local-deep-research) - an AI-powered research assistant for deep, iterative research
+- <img src="https://img.shields.io/github/stars/murtaza-nasir/maestro?style=social" height="17"/> [maestro](https://github.com/murtaza-nasir/maestro) - an AI-powered research application designed to streamline complex research tasks
 - <img src="https://img.shields.io/github/stars/MODSetter/SurfSense?style=social" height="17"/> [SurfSense](https://github.com/MODSetter/SurfSense) - an open-source alternative to NotebookLM / Perplexity / Glean
 - <img src="https://img.shields.io/github/stars/lfnovo/open-notebook?style=social" height="17"/> [open-notebook](https://github.com/lfnovo/open-notebook) - an open-source implementation of Notebook LM with more flexibility and features
 
