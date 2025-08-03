@@ -150,6 +150,10 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## Tutorials
 
+### Models
+
+- <img src="https://img.shields.io/youtube/views/l8pRSuU81PU?style=social" height="17"/> [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU)
+
 ### Prompt Engineering
 
 - <img src="https://img.shields.io/github/stars/NirDiamant/Prompt_Engineering?style=social" height="17"/> [Prompt Engineering by NirDiamant](https://github.com/NirDiamant/Prompt_Engineering) - a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies
