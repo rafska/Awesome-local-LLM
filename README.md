@@ -94,6 +94,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/camel-ai/camel?style=social" height="17"/> [camel](https://github.com/camel-ai/camel) - the first and the best multi-agent framework
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17"/> <img src="https://img.shields.io/github/stars/openai/openai-agents-python?style=social" height="17"/> [openai-agents-python](https://github.com/openai/openai-agents-python) - a lightweight, powerful framework for multi-agent workflows
 - <img src="https://img.shields.io/github/stars/badboysm890/ClaraVerse?style=social" height="17"/> [ClaraVerse](https://github.com/badboysm890/ClaraVerse) - privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation
+- <img src="https://img.shields.io/github/stars/deepsense-ai/ragbits?style=social" height="17"/> [ragbits](https://github.com/deepsense-ai/ragbits) - building blocks for rapid development of GenAI applications
 
 ### Retrieval-Augmented Generation
 
