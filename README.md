@@ -91,6 +91,13 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17"/> <img src="https://img.shields.io/github/stars/openai/openai-agents-python?style=social" height="17"/> [openai-agents-python](https://github.com/openai/openai-agents-python) - a lightweight, powerful framework for multi-agent workflows
 - <img src="https://img.shields.io/github/stars/badboysm890/ClaraVerse?style=social" height="17"/> [ClaraVerse](https://github.com/badboysm890/ClaraVerse) - privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation
 
+### Retrieval-Augmented Generation
+
+- <img src="https://img.shields.io/github/stars/microsoft/graphrag?style=social" height="17"/> [graphrag](https://github.com/microsoft/graphrag) - a modular graph-based RAG system
+- <img src="https://img.shields.io/github/stars/HKUDS/LightRAG?style=social" height="17"/> [LightRAG](https://github.com/HKUDS/LightRAG) - simple and fast RAG
+- <img src="https://img.shields.io/github/stars/getzep/graphiti?style=social" height="17"/> [graphiti](https://github.com/getzep/graphiti) - build real-time knowledge graphs for AI Agents 
+- <img src="https://img.shields.io/github/stars/vanna-ai/vanna?style=social" height="17"/> [vanna](https://github.com/vanna-ai/vanna) - an open-source Python RAG framework for SQL generation and related functionality
+
 ### Computer Use
 
 - <img src="https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social" height="17"/> [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - a natural language interface for computers
@@ -135,7 +142,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Miscellaneous
 
-- <img src="https://img.shields.io/github/stars/vanna-ai/vanna?style=social" height="17"/> [vanna](https://github.com/vanna-ai/vanna) - an open-source Python RAG framework for SQL generation and related functionality
 - <img src="https://img.shields.io/github/stars/presenton/presenton?style=social" height="17"/> [presenton](https://github.com/presenton/presenton) - an open-source AI presentation generator and API
 - <img src="https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2?style=social" height="17"/> [OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - exploration to advanced multimodal generation
 - <img src="https://img.shields.io/github/stars/TheAhmadOsman/4o-ghibli-at-home?style=social" height="17"/> [4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - a powerful, self-hosted AI photo stylizer built for performance and privacy
