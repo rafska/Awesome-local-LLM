@@ -36,7 +36,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Model providers
 
 - [Qwen](https://huggingface.co/Qwen) - powered by Alibaba Cloud
-- [Mistral AI](https://huggingface.co/mistralai) - a pioneering French artificial intelligence startup
+- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17"/> [Mistral AI](https://huggingface.co/mistralai) - a pioneering French artificial intelligence startup
 - [Tencent](https://huggingface.co/tencent) - a profile of a Chinese multinational technology conglomerate and holding company
 - [Unsloth AI](https://huggingface.co/unsloth) - focusing on making AI more accessible to everyone (GGUFs etc.)
 - [bartowski](https://huggingface.co/bartowski) - providing GGUF versions of popular LLMs
@@ -49,10 +49,10 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Qwen3-Coder](https://huggingface.co/collections/Qwen/qwen3-coder-687fc861e53c939e52d52d10) - a collection of the Qwen's most agentic code models to date
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17"/> [Gemma 3](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d) - a family of lightweight, state-of-the-art open models from Google, built from the same research and technology used to create the Gemini models
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17"/> [OpenAI-o3-open](https://www.youtube.com/watch?v=hhWwFUtDAJo) - a very first OpenAI's open weight LLM model
-- [Mistral-Small-3.2-24B-Instruct-2506](https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506) - a versatile model designed to handle a wide range of generative AI tasks, including instruction following, conversational assistance, image understanding, and function calling
-- [Magistral-Small-2507](https://huggingface.co/mistralai/Magistral-Small-2507) - a Mistral Small 3.1 (2503) with added reasoning capabilities
-- [Devstral-Small-2507](https://huggingface.co/mistralai/Devstral-Small-2507) - an agentic LLM for software engineering tasks fine-tuned from Mistral-Small-3.1
-- [Voxtral-Small-24B-2507](https://huggingface.co/mistralai/Voxtral-Small-24B-2507) - an enhancement of Mistral Small 3, incorporating state-of-the-art audio input capabilities while retaining best-in-class text performance
+- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17"/> [Mistral-Small-3.2-24B-Instruct-2506](https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506) - a versatile model designed to handle a wide range of generative AI tasks, including instruction following, conversational assistance, image understanding, and function calling
+- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17"/> [Magistral-Small-2507](https://huggingface.co/mistralai/Magistral-Small-2507) - a Mistral Small 3.1 (2503) with added reasoning capabilities
+- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17"/> [Devstral-Small-2507](https://huggingface.co/mistralai/Devstral-Small-2507) - an agentic LLM for software engineering tasks fine-tuned from Mistral-Small-3.1
+- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17"/> [Voxtral-Small-24B-2507](https://huggingface.co/mistralai/Voxtral-Small-24B-2507) - an enhancement of Mistral Small 3, incorporating state-of-the-art audio input capabilities while retaining best-in-class text performance
 - [Mellum-4b-base](https://huggingface.co/JetBrains/Mellum-4b-base) - an LLM optimized for code-related tasks
 - [OlympicCoder-32B](https://huggingface.co/open-r1/OlympicCoder-32B) - a code model that achieves very strong performance on competitive coding benchmarks such as LiveCodeBench and the 2024 International Olympiad in Informatics
 - [NextCoder](https://huggingface.co/collections/microsoft/nextcoder-6815ee6bfcf4e42f20d45028) - a family of code-editing LLMs developed using the Qwen2.5-Coder Instruct variants as base
