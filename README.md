@@ -22,6 +22,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ## User Interfaces
 
 - <img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social" height="17"/> [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- <img src="https://img.shields.io/github/stars/n4ze3m/page-assist?style=social" height="17"/> [Page Assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 
 ## Large Language Models
 
