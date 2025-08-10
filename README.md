@@ -64,6 +64,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Granite 3.3](https://huggingface.co/collections/ibm-granite/granite-33-language-models-67f65d0cca24bcbd1d3a08e3) - a collection of LLMs from IBM, fine-tuned for improved reasoning and instruction-following capabilities
 - [EXAONE-4.0](https://huggingface.co/collections/LGAI-EXAONE/exaone-40-686b2e0069800c835ed48375) - a collection of LLMs from LG AI Research, integrating non-reasoning and reasoning modes
 - [Qwen-Image](https://huggingface.co/Qwen/Qwen-Image) - an image generation foundation model in the Qwen series that achieves significant advances in complex text rendering and precise image editing
+- [MiniCPM-V-4](https://huggingface.co/openbmb/MiniCPM-V-4) - a GPT-4V level MLLM for single image, multi image and video on your phone
 - [chatterbox](https://huggingface.co/ResembleAI/chatterbox) - first production-grade open-source TTS model
 - [Jan-nano](https://huggingface.co/Menlo/Jan-nano) - a compact 4-billion parameter language model specifically designed and trained for deep research tasks
 - [Jan-nano-128k](https://huggingface.co/Menlo/Jan-nano-128k) - an enhanced version of Jan-nano features a native 128k context window that enables deeper, more comprehensive research capabilities without the performance degradation typically associated with context extension method
@@ -154,6 +155,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Miscellaneous
 
+- <img src="https://img.shields.io/github/stars/murtaza-nasir/speakr?style=social" height="17"/> [speakr](https://github.com/murtaza-nasir/speakr) - a personal, self-hosted web application designed for transcribing audio recordings
 - <img src="https://img.shields.io/github/stars/presenton/presenton?style=social" height="17"/> [presenton](https://github.com/presenton/presenton) - an open-source AI presentation generator and API
 - <img src="https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2?style=social" height="17"/> [OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - exploration to advanced multimodal generation
 - <img src="https://img.shields.io/github/stars/TheAhmadOsman/4o-ghibli-at-home?style=social" height="17"/> [4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - a powerful, self-hosted AI photo stylizer built for performance and privacy
