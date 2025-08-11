@@ -87,6 +87,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/block/goose?style=social" height="17"/> [goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions 
 - <img src="https://img.shields.io/github/stars/sst/opencode?style=social" height="17"/> [opencode](https://github.com/sst/opencode) - a AI coding agent built for the terminal
 - <img src="https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social" height="17"/> [kilocode](https://github.com/Kilo-Org/kilocode) - open source AI coding assistant for planning, building, and fixing code
+- <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
 
 ### Agent Frameworks
 
