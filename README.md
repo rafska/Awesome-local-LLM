@@ -95,6 +95,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social" height="17"/> [langflow](https://github.com/langflow-ai/langflow) - a powerful tool for building and deploying AI-powered agents and workflows
 - <img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" height="17"/> [autogen](https://github.com/microsoft/autogen) - a programming framework for agentic AI
 - <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social" height="17"/> [llama_index](https://github.com/run-llama/llama_index) - the leading framework for building LLM-powered agents over your data
+- <img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social" height="17"/> [Flowise](https://github.com/FlowiseAI/Flowise) - build AI agents, visually
 - <img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=social" height="17"/> [crewAI](https://github.com/crewAIInc/crewAI) - a framework for orchestrating role-playing, autonomous AI agents
 - <img src="https://img.shields.io/github/stars/agno-agi/agno?style=social" height="17"/> [agno](https://github.com/agno-agi/agno) - a full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning
 - <img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social" height="17"/> [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - an open-source framework to build, manage and run useful Autonomous AI Agents
