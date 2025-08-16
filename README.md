@@ -72,11 +72,12 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [OlympicCoder-32B](https://huggingface.co/open-r1/OlympicCoder-32B) - a code model that achieves very strong performance on competitive coding benchmarks such as LiveCodeBench and the 2024 International Olympiad in Informatics
 - [NextCoder](https://huggingface.co/collections/microsoft/nextcoder-6815ee6bfcf4e42f20d45028) - a family of code-editing LLMs developed using the Qwen2.5-Coder Instruct variants as base
 
-#### Image
+#### Vision
 
 - [Qwen-Image](https://huggingface.co/Qwen/Qwen-Image) - an image generation foundation model in the Qwen series that achieves significant advances in complex text rendering and precise image editing
 - [GLM-4.5V](https://huggingface.co/zai-org/GLM-4.5V) - a VLLM based on ZhipuAI’s next-generation flagship text foundation model GLM-4.5-Air
 - [MiniCPM-V-4](https://huggingface.co/openbmb/MiniCPM-V-4) - a GPT-4V level MLLM for single image, multi image and video on your phone
+- [ClipTagger-12b](https://huggingface.co/inference-net/ClipTagger-12b) -  a vision-language model (VLM) designed for video understanding at massive scale
 
 #### Audio
 
@@ -91,6 +92,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Jan-nano-128k](https://huggingface.co/Menlo/Jan-nano-128k) - an enhanced version of Jan-nano features a native 128k context window that enables deeper, more comprehensive research capabilities without the performance degradation typically associated with context extension method
 - [Arch-Router-1.5B](https://huggingface.co/katanemo/Arch-Router-1.5B) - the fastest LLM router model that aligns to subjective usage preferences
 - [HunyuanWorld-1](https://huggingface.co/tencent/HunyuanWorld-1) - an open-source 3D world generation model
+- [Hunyuan-GameCraft-1.0](https://huggingface.co/tencent/Hunyuan-GameCraft-1.0) - a novel framework for high-dynamic interactive video generation in game environments
 
 ## Tools
 
