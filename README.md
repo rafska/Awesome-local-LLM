@@ -25,6 +25,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ## User Interfaces
 
 - <img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social" height="17"/> [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- <img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=social" height="17"/> [Lobe Chat](https://github.com/lobehub/lobe-chat) - an open-source, modern design AI chat framework
+- <img src="https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social" height="17"/> [Text generation web UI](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support
 - <img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social" height="17"/> [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users
 - <img src="https://img.shields.io/github/stars/n4ze3m/page-assist?style=social" height="17"/> [Page Assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 
