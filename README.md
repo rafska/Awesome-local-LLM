@@ -1,6 +1,41 @@
 # Awesome-local-LLM
 A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally
 
+## Table of Contents
+
+- [Inference platforms](#inference-platforms)
+- [Inference engines](#inference-engines)
+- [User Interfaces](#user-interfaces)
+- [Large Language Models](#large-language-models)
+  - [Explorers, Benchmarks, Leaderboards](#explorers-benchmarks-leaderboards)
+  - [Model providers](#model-providers)
+  - [Specific models](#specific-models)
+    - [General purpose](#general-purpose)
+    - [Coding](#coding)
+    - [Vision](#vision)
+    - [Audio](#audio)
+    - [Miscellaneous](#miscellaneous)
+- [Tools](#tools)
+  - [Coding Agents](#coding-agents)
+  - [Agent Frameworks](#agent-frameworks)
+  - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
+  - [Computer Use](#computer-use)
+  - [Browser Automation](#browser-automation)
+  - [Memory Management](#memory-management)
+  - [Testing, Evaluation, and Observability](#testing-evaluation-and-observability)
+  - [Research](#research)
+  - [Training and Fine-tuning](#training-and-fine-tuning)
+  - [Miscellaneous](#miscellaneous-1)
+- [Hardware](#hardware)
+- [Tutorials](#tutorials)
+  - [Models](#models)
+  - [Prompt Engineering](#prompt-engineering)
+  - [Context Engineering](#context-engineering)
+  - [Agents](#agents)
+  - [Retrieval-Augmented Generation](#retrieval-augmented-generation-1)
+  - [Miscellaneous](#miscellaneous-2)
+- [Communities](#communities)
+
 ## Inference platforms
 
 - [LM Studio](https://lmstudio.ai/) - discover, download and run local LLMs
