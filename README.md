@@ -200,6 +200,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" height="17"/> [mem0](https://github.com/mem0ai/mem0) - universal memory layer for AI Agents
 - <img src="https://img.shields.io/github/stars/letta-ai/letta?style=social" height="17"/> [letta](https://github.com/letta-ai/letta) - the stateful agents framework with memory, reasoning, and context management
 - <img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" height="17"/> [cognee](https://github.com/topoteretes/cognee) - memory for AI Agents in 5 lines of code
+- <img src="https://img.shields.io/github/stars/LMCache/LMCache?style=social" height="17"/> [LMCache](https://github.com/LMCache/LMCache) - supercharge your LLM with the fastest KV Cache Layer 
 
 ### Testing, Evaluation, and Observability
 
