@@ -102,6 +102,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Granite 3.3](https://huggingface.co/collections/ibm-granite/granite-33-language-models-67f65d0cca24bcbd1d3a08e3) - a collection of LLMs from IBM, fine-tuned for improved reasoning and instruction-following capabilities
 - [EXAONE-4.0](https://huggingface.co/collections/LGAI-EXAONE/exaone-40-686b2e0069800c835ed48375) - a collection of LLMs from LG AI Research, integrating non-reasoning and reasoning modes
 - [ERNIE 4.5](https://huggingface.co/collections/baidu/ernie-45-6861cd4c9be84540645f35c9) - a collection of large-scale multimodal models from Baidu
+- [Seed-OSS](https://huggingface.co/collections/ByteDance-Seed/seed-oss-68a609f4201e788db05b5dcd) - a collection of LLMs developed by ByteDance's Seed Team, designed for powerful long-context, reasoning, agent and general capabilities, and versatile developer-friendly features
 
 #### Coding
 
@@ -124,7 +125,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17"/> [Voxtral-Small-24B-2507](https://huggingface.co/mistralai/Voxtral-Small-24B-2507) - an enhancement of Mistral Small 3, incorporating state-of-the-art audio input capabilities while retaining best-in-class text performance
 - [chatterbox](https://huggingface.co/ResembleAI/chatterbox) - first production-grade open-source TTS model
-- [Canary 1B v2](https://huggingface.co/nvidia/canary-1b-v2) - a multitask speech transcription and translation model from NVIDIA
+- [canary-1b-v2](https://huggingface.co/nvidia/canary-1b-v2) - a multitask speech transcription and translation model from NVIDIA
 - [parakeet-tdt-0.6b-v3](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3) - a multilingual speech-to-text model from NVIDIA
 - [Kitten TTS](https://huggingface.co/KittenML/kitten-tts-nano-0.1) - an open-source realistic text-to-speech model with just 15 million parameters, designed for lightweight deployment and high-quality voice synthesis (currently in developer preview)
 
