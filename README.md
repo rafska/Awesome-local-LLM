@@ -31,6 +31,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
   - [Models](#models)
   - [Prompt Engineering](#prompt-engineering)
   - [Context Engineering](#context-engineering)
+  - [Inference](#inference)
   - [Agents](#agents)
   - [Retrieval-Augmented Generation](#retrieval-augmented-generation-1)
   - [Miscellaneous](#miscellaneous-2)
@@ -267,6 +268,10 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - <img src="https://img.shields.io/github/stars/davidkimai/Context-Engineering?style=social" height="17"/> [Context-Engineering](https://github.com/davidkimai/Context-Engineering) - a frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization
 - <img src="https://img.shields.io/github/stars/Meirtz/Awesome-Context-Engineering?style=social" height="17"/> [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) - a comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems
+
+### Inference
+
+- <img src="https://img.shields.io/github/stars/vllm-project/production-stack?style=social" height="17"/> [vLLM Production Stack](https://github.com/vllm-project/production-stack) - vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization
 
 ### Agents
 
