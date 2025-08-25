@@ -45,6 +45,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" height="17"/> [LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others
 - <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Inference engines
 
 - <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" height="17"/> [ollama](https://github.com/ollama/ollama) - get up and running with LLMs
@@ -60,6 +62,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/sgl-project/sglang?style=social" height="17"/> [sglang](https://github.com/sgl-project/sglang) - a fast serving framework for large language models and vision language models
 - <img src="https://img.shields.io/github/stars/b4rtaz/distributed-llama?style=social" height="17"/> [distributed-llama](https://github.com/b4rtaz/distributed-llama) - connect home devices into a powerful cluster to accelerate LLM inference
 
+[Back to Table of Contents](#table-of-contents)
+
 ## User Interfaces
 
 - <img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social" height="17"/> [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -67,6 +71,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social" height="17"/> [Text generation web UI](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support
 - <img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social" height="17"/> [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users
 - <img src="https://img.shields.io/github/stars/n4ze3m/page-assist?style=social" height="17"/> [Page Assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Large Language Models
 
@@ -77,6 +83,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Dubesor LLM Benchmark table](https://dubesor.de/benchtable) - small-scale manual performance comparison benchmark
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
 
+[Back to Table of Contents](#table-of-contents)
+
 ### Model providers
 
 - [Qwen](https://huggingface.co/Qwen) - powered by Alibaba Cloud
@@ -86,6 +94,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [bartowski](https://huggingface.co/bartowski) - providing GGUF versions of popular LLMs
 - [Beijing Academy of Artificial Intelligence](https://huggingface.co/BAAI) - a private non-profit organization engaged in AI research and development
 - [Open Thoughts](https://huggingface.co/open-thoughts) - a team of researchers and engineers curating the best open reasoning datasets
+
+[Back to Table of Contents](#table-of-contents)
 
 ### Specific models
 
@@ -107,6 +117,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [ERNIE 4.5](https://huggingface.co/collections/baidu/ernie-45-6861cd4c9be84540645f35c9) - a collection of large-scale multimodal models from Baidu
 - [Seed-OSS](https://huggingface.co/collections/ByteDance-Seed/seed-oss-68a609f4201e788db05b5dcd) - a collection of LLMs developed by ByteDance's Seed Team, designed for powerful long-context, reasoning, agent and general capabilities, and versatile developer-friendly features
 
+[Back to Table of Contents](#table-of-contents)
+
 #### Coding
 
 - [Qwen3-Coder](https://huggingface.co/collections/Qwen/qwen3-coder-687fc861e53c939e52d52d10) - a collection of the Qwen's most agentic code models to date
@@ -114,6 +126,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Mellum-4b-base](https://huggingface.co/JetBrains/Mellum-4b-base) - an LLM from JetBrains, optimized for code-related tasks
 - [OlympicCoder-32B](https://huggingface.co/open-r1/OlympicCoder-32B) - a code model that achieves very strong performance on competitive coding benchmarks such as LiveCodeBench and the 2024 International Olympiad in Informatics
 - [NextCoder](https://huggingface.co/collections/microsoft/nextcoder-6815ee6bfcf4e42f20d45028) - a family of code-editing LLMs developed using the Qwen2.5-Coder Instruct variants as base
+
+[Back to Table of Contents](#table-of-contents)
 
 #### Vision
 
@@ -124,6 +138,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [LFM2-VL](https://huggingface.co/collections/LiquidAI/lfm2-vl-68963bbc84a610f7638d5ffa) - a colection of vision-language models, designed for on-device deployment
 - [ClipTagger-12b](https://huggingface.co/inference-net/ClipTagger-12b) -  a vision-language model (VLM) designed for video understanding at massive scale
 
+[Back to Table of Contents](#table-of-contents)
+
 #### Audio
 
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17"/> [Voxtral-Small-24B-2507](https://huggingface.co/mistralai/Voxtral-Small-24B-2507) - an enhancement of Mistral Small 3, incorporating state-of-the-art audio input capabilities while retaining best-in-class text performance
@@ -131,6 +147,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [canary-1b-v2](https://huggingface.co/nvidia/canary-1b-v2) - a multitask speech transcription and translation model from NVIDIA
 - [parakeet-tdt-0.6b-v3](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3) - a multilingual speech-to-text model from NVIDIA
 - [Kitten TTS](https://huggingface.co/KittenML/kitten-tts-nano-0.1) - an open-source realistic text-to-speech model with just 15 million parameters, designed for lightweight deployment and high-quality voice synthesis (currently in developer preview)
+
+[Back to Table of Contents](#table-of-contents)
 
 #### Miscellaneous
 
@@ -140,6 +158,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Arch-Router-1.5B](https://huggingface.co/katanemo/Arch-Router-1.5B) - the fastest LLM router model that aligns to subjective usage preferences
 - [HunyuanWorld-1](https://huggingface.co/tencent/HunyuanWorld-1) - an open-source 3D world generation model
 - [Hunyuan-GameCraft-1.0](https://huggingface.co/tencent/Hunyuan-GameCraft-1.0) - a novel framework for high-dynamic interactive video generation in game environments
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Tools
 
@@ -156,6 +176,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/sst/opencode?style=social" height="17"/> [opencode](https://github.com/sst/opencode) - a AI coding agent built for the terminal
 - <img src="https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social" height="17"/> [kilocode](https://github.com/Kilo-Org/kilocode) - open source AI coding assistant for planning, building, and fixing code
 - <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
+
+[Back to Table of Contents](#table-of-contents)
 
 ### Agent Frameworks
 
@@ -175,12 +197,16 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/badboysm890/ClaraVerse?style=social" height="17"/> [ClaraVerse](https://github.com/badboysm890/ClaraVerse) - privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation
 - <img src="https://img.shields.io/github/stars/deepsense-ai/ragbits?style=social" height="17"/> [ragbits](https://github.com/deepsense-ai/ragbits) - building blocks for rapid development of GenAI applications
 
+[Back to Table of Contents](#table-of-contents)
+
 ### Retrieval-Augmented Generation
 
 - <img src="https://img.shields.io/github/stars/microsoft/graphrag?style=social" height="17"/> [graphrag](https://github.com/microsoft/graphrag) - a modular graph-based RAG system
 - <img src="https://img.shields.io/github/stars/HKUDS/LightRAG?style=social" height="17"/> [LightRAG](https://github.com/HKUDS/LightRAG) - simple and fast RAG
 - <img src="https://img.shields.io/github/stars/getzep/graphiti?style=social" height="17"/> [graphiti](https://github.com/getzep/graphiti) - build real-time knowledge graphs for AI Agents 
 - <img src="https://img.shields.io/github/stars/vanna-ai/vanna?style=social" height="17"/> [vanna](https://github.com/vanna-ai/vanna) - an open-source Python RAG framework for SQL generation and related functionality
+
+[Back to Table of Contents](#table-of-contents)
 
 ### Computer Use
 
@@ -189,6 +215,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" height="17"/> [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - a framework to enable multimodal models to operate a computer
 - <img src="https://img.shields.io/github/stars/trycua/cua?style=social" height="17"/> [cua](https://github.com/trycua/cua) - the Docker Container for Computer-Use AI Agents
 - <img src="https://img.shields.io/github/stars/simular-ai/Agent-S?style=social" height="17"/> [Agent-S](https://github.com/simular-ai/Agent-S) - an open agentic framework that uses computers like a human
+
+[Back to Table of Contents](#table-of-contents)
 
 ### Browser Automation
 
@@ -199,12 +227,16 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/mendableai/firecrawl?style=social" height="17"/> [firecrawl](https://github.com/mendableai/firecrawl) - turn entire websites into LLM-ready markdown or structured data
 - <img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" height="17"/> [stagehand](https://github.com/browserbase/stagehand) -  the AI Browser Automation Framework
 
+[Back to Table of Contents](#table-of-contents)
+
 ### Memory Management
 
 - <img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" height="17"/> [mem0](https://github.com/mem0ai/mem0) - universal memory layer for AI Agents
 - <img src="https://img.shields.io/github/stars/letta-ai/letta?style=social" height="17"/> [letta](https://github.com/letta-ai/letta) - the stateful agents framework with memory, reasoning, and context management
 - <img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" height="17"/> [cognee](https://github.com/topoteretes/cognee) - memory for AI Agents in 5 lines of code
 - <img src="https://img.shields.io/github/stars/LMCache/LMCache?style=social" height="17"/> [LMCache](https://github.com/LMCache/LMCache) - supercharge your LLM with the fastest KV Cache Layer
+
+[Back to Table of Contents](#table-of-contents)
 
 ### Testing, Evaluation, and Observability
 
@@ -213,6 +245,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/traceloop/openllmetry?style=social" height="17"/> [openllmetry](https://github.com/traceloop/openllmetry) - an open-source observability for your LLM application, based on OpenTelemetry
 - <img src="https://img.shields.io/github/stars/Giskard-AI/giskard?style=social" height="17"/> [giskard](https://github.com/Giskard-AI/giskard) - an open-source evaluation & testing for AI & LLM systems
 - <img src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" height="17"/> [agenta](https://github.com/Agenta-AI/agenta) - an open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place
+
+[Back to Table of Contents](#table-of-contents)
 
 ### Research
 
@@ -224,10 +258,14 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/murtaza-nasir/maestro?style=social" height="17"/> [maestro](https://github.com/murtaza-nasir/maestro) - an AI-powered research application designed to streamline complex research tasks
 - <img src="https://img.shields.io/github/stars/lfnovo/open-notebook?style=social" height="17"/> [open-notebook](https://github.com/lfnovo/open-notebook) - an open-source implementation of Notebook LM with more flexibility and features
 
+[Back to Table of Contents](#table-of-contents)
+
 ### Training and Fine-tuning
 
 - <img src="https://img.shields.io/github/stars/kiln-ai/kiln?style=social" height="17"/> [Kiln](https://github.com/kiln-ai/kiln) - the easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets
 - <img src="https://img.shields.io/github/stars/e-p-armstrong/augmentoolkit?style=social" height="17"/> [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - train an open-source LLM on new facts
+
+[Back to Table of Contents](#table-of-contents)
 
 ### Miscellaneous
 
@@ -241,6 +279,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/gabber-dev/gabber?style=social" height="17"/> [gabber](https://github.com/gabber-dev/gabber) - build AI applications that can see, hear, and speak using your screens, microphones, and cameras as inputs
 - <img src="https://img.shields.io/github/stars/sevenreasons/promptcat?style=social" height="17"/> [promptcat](https://github.com/sevenreasons/promptcat) - a zero-dependency prompt manager/catalog/library in a single HTML file
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Hardware
 
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCiaQzXI5528Il6r2NNkrkJA?style=social" height="17"/> [Digital Spaceport](https://www.youtube.com/@DigitalSpaceport) - reviews of various builds designed for LLM inference
@@ -249,11 +289,15 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCajiMK_CY9icRhLepS8_3ug?style=social" height="17"/> [Alex Ziskind](https://www.youtube.com/@AZisk) - tests of pcs, laptops, gpus etc. capable of running LLMs
 - [LLM Inference VRAM & GPU Requirement Calculator](https://app.linpp2009.com/en/llm-gpu-memory-calculator) - calculate how many GPUs you need to deploy LLMs
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Tutorials
 
 ### Models
 
 - <img src="https://img.shields.io/youtube/views/l8pRSuU81PU?style=social" height="17"/> [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU)
+
+[Back to Table of Contents](#table-of-contents)
 
 ### Prompt Engineering
 
@@ -268,14 +312,20 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/upstash/context7?style=social" height="17"/> [Context7 MCP Server](https://github.com/upstash/context7) - up-to-date code documentation for LLMs and AI code editors
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17"/> <img src="https://img.shields.io/github/stars/openai/codex?style=social" height="17"/> [Prompt from Codex](https://github.com/openai/codex/blob/main/codex-rs/core/prompt.md) - Prompt used to steer behavior of OpenAI's Codex
 
+[Back to Table of Contents](#table-of-contents)
+
 ### Context Engineering
 
 - <img src="https://img.shields.io/github/stars/davidkimai/Context-Engineering?style=social" height="17"/> [Context-Engineering](https://github.com/davidkimai/Context-Engineering) - a frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization
 - <img src="https://img.shields.io/github/stars/Meirtz/Awesome-Context-Engineering?style=social" height="17"/> [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) - a comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems
 
+[Back to Table of Contents](#table-of-contents)
+
 ### Inference
 
 - <img src="https://img.shields.io/github/stars/vllm-project/production-stack?style=social" height="17"/> [vLLM Production Stack](https://github.com/vllm-project/production-stack) - vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization
+
+[Back to Table of Contents](#table-of-contents)
 
 ### Agents
 
@@ -285,15 +335,21 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17"/> [601 real-world gen AI use cases](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders) - 601 real-world gen AI use cases from the world's leading organizations by Google
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17"/> [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) - a practical guide to building agents by OpenAI
 
+[Back to Table of Contents](#table-of-contents)
+
 ### Retrieval-Augmented Generation
 
 - <img src="https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=social" height="17"/> [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) - various advanced techniques for Retrieval-Augmented Generation (RAG) systems
 - <img src="https://img.shields.io/github/stars/NirDiamant/Controllable-RAG-Agent?style=social" height="17"/> [Controllable RAG Agent](https://github.com/NirDiamant/Controllable-RAG-Agent) - an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering that uses sophisticated graph based algorithm to handle the tasks
 - <img src="https://img.shields.io/github/stars/lokeswaran-aj/langchain-rag-cookbook?style=social" height="17"/> [LangChain RAG Cookbook](https://github.com/lokeswaran-aj/langchain-rag-cookbook) - a collection of modular RAG techniques, implemented in LangChain + Python
 
+[Back to Table of Contents](#table-of-contents)
+
 ### Miscellaneous
 
 - [Self-hosted AI coding that just works](https://www.reddit.com/r/LocalLLaMA/comments/1lt4y1z/selfhosted_ai_coding_that_just_works/)
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Communities
 
@@ -301,6 +357,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/reddit/subreddit-subscribers/LocalLLM?style=social" height="17"/> [LocalLLM](https://www.reddit.com/r/LocalLLM)
 - <img src="https://img.shields.io/reddit/subreddit-subscribers/LLMDevs?style=social" height="17"/> [LLMDevs](https://www.reddit.com/r/LLMDevs)
 - <img src="https://img.shields.io/reddit/subreddit-subscribers/LocalAIServers?style=social" height="17"/> [LocalAIServers](https://www.reddit.com/r/LocalAIServers/)
+
+[Back to Table of Contents](#table-of-contents)
 
 # Contributing
 
