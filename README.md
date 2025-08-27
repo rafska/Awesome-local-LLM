@@ -270,6 +270,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Miscellaneous
 
+- <img src="https://img.shields.io/github/stars/upstash/context7?style=social" height="17"/> [context7](https://github.com/upstash/context7) - up-to-date code documentation for LLMs and AI code editors
 - <img src="https://img.shields.io/github/stars/aliasrobotics/cai?style=social" height="17"/> [cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - <img src="https://img.shields.io/github/stars/murtaza-nasir/speakr?style=social" height="17"/> [speakr](https://github.com/murtaza-nasir/speakr) - a personal, self-hosted web application designed for transcribing audio recordings
 - <img src="https://img.shields.io/github/stars/presenton/presenton?style=social" height="17"/> [presenton](https://github.com/presenton/presenton) - an open-source AI presentation generator and API
@@ -310,7 +311,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/Anthropic-%23191919?logo=anthropic" height="17"/> [Real world prompting](https://github.com/anthropics/courses/blob/master/real_world_prompting/README.md) - real world prompting tutorial by Anthropic
 - <img src="https://img.shields.io/badge/Anthropic-%23191919?logo=anthropic" height="17"/> [Prompt evaluations](https://github.com/anthropics/courses/blob/master/prompt_evaluations/README.md) - prompt evaluations course by Anthropic
 - <img src="https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social" height="17"/> [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - a collection of system prompts extracted from AI tools
-- <img src="https://img.shields.io/github/stars/upstash/context7?style=social" height="17"/> [Context7 MCP Server](https://github.com/upstash/context7) - up-to-date code documentation for LLMs and AI code editors
+- <img src="https://img.shields.io/github/stars/asgeirtj/system_prompts_leaks?style=social" height="17"/> [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - a collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17"/> <img src="https://img.shields.io/github/stars/openai/codex?style=social" height="17"/> [Prompt from Codex](https://github.com/openai/codex/blob/main/codex-rs/core/prompt.md) - Prompt used to steer behavior of OpenAI's Codex
 
 [Back to Table of Contents](#table-of-contents)
