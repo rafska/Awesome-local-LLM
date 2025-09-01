@@ -263,6 +263,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Training and Fine-tuning
 
+- <img src="https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social" height="17"/> [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - an easy-to-use, high-performance open-source RLHF framework built on Ray, vLLM, ZeRO-3 and HuggingFace Transformers, designed to make RLHF training simple and accessible
 - <img src="https://img.shields.io/github/stars/kiln-ai/kiln?style=social" height="17"/> [Kiln](https://github.com/kiln-ai/kiln) - the easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets
 - <img src="https://img.shields.io/github/stars/e-p-armstrong/augmentoolkit?style=social" height="17"/> [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - train an open-source LLM on new facts
 
