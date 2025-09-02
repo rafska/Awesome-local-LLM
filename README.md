@@ -44,6 +44,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/ChatBoxAI/ChatBox?style=social" height="17"/> [ChatBox](https://github.com/ChatBoxAI/ChatBox) - user-friendly desktop client app for AI models/LLMs
 - <img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" height="17"/> [LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others
 - <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration
+- [Secret AI](https://secretai.io/) - user-friendly mobile app that runs local LLMs on Android, iOS and macOS
 
 [Back to Table of Contents](#table-of-contents)
 
