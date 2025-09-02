@@ -59,6 +59,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/ml-explore/mlx-lm?style=social" height="17"/> [mlx-lm](https://github.com/ml-explore/mlx-lm) - generate text and fine-tune large language models on Apple silicon with MLX
 - <img src="https://img.shields.io/github/stars/FastFlowLM/FastFlowLM?style=social" height="17"/> [FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - run LLMs on AMD Ryzen™ AI NPUs
 - <img src="https://img.shields.io/github/stars/exo-explore/exo?style=social" height="17"/> [exo](https://github.com/exo-explore/exo) - run your own AI cluster at home with everyday devices
+- <img src="https://img.shields.io/github/stars/gpustack/gpustack?style=social" height="17"/> [gpustack](https://github.com/gpustack/gpustack) - simple, scalable AI model deployment on GPU clusters
 - <img src="https://img.shields.io/github/stars/sgl-project/sglang?style=social" height="17"/> [sglang](https://github.com/sgl-project/sglang) - a fast serving framework for large language models and vision language models
 - <img src="https://img.shields.io/github/stars/b4rtaz/distributed-llama?style=social" height="17"/> [distributed-llama](https://github.com/b4rtaz/distributed-llama) - connect home devices into a powerful cluster to accelerate LLM inference
 
