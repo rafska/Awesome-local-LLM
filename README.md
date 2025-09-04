@@ -205,6 +205,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Retrieval-Augmented Generation
 
 - <img src="https://img.shields.io/github/stars/microsoft/graphrag?style=social" height="17"/> [graphrag](https://github.com/microsoft/graphrag) - a modular graph-based RAG system
+- <img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social" height="17"/> [haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications, best suited for building RAG, question answering, semantic search or conversational agent chatbots
 - <img src="https://img.shields.io/github/stars/HKUDS/LightRAG?style=social" height="17"/> [LightRAG](https://github.com/HKUDS/LightRAG) - simple and fast RAG
 - <img src="https://img.shields.io/github/stars/getzep/graphiti?style=social" height="17"/> [graphiti](https://github.com/getzep/graphiti) - build real-time knowledge graphs for AI Agents 
 - <img src="https://img.shields.io/github/stars/vanna-ai/vanna?style=social" height="17"/> [vanna](https://github.com/vanna-ai/vanna) - an open-source Python RAG framework for SQL generation and related functionality
