@@ -135,6 +135,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Qwen-Image](https://huggingface.co/Qwen/Qwen-Image) - an image generation foundation model in the Qwen series that achieves significant advances in complex text rendering and precise image editing
 - [Qwen-Image-Edit](https://huggingface.co/Qwen/Qwen-Image-Edit) - the image editing version of Qwen-Image extending the base model's unique text rendering capabilities to image editing tasks, enabling precise text editing
 - [GLM-4.5V](https://huggingface.co/zai-org/GLM-4.5V) - a VLLM based on ZhipuAI’s next-generation flagship text foundation model GLM-4.5-Air
+- [FastVLM](https://huggingface.co/collections/apple/fastvlm-68ac97b9cd5cacefdd04872e) - a collection of VLMs with efficient vision encoding from Apple
 - [MiniCPM-V-4](https://huggingface.co/openbmb/MiniCPM-V-4) - a GPT-4V level MLLM for single image, multi image and video on your phone
 - [LFM2-VL](https://huggingface.co/collections/LiquidAI/lfm2-vl-68963bbc84a610f7638d5ffa) - a colection of vision-language models, designed for on-device deployment
 - [ClipTagger-12b](https://huggingface.co/inference-net/ClipTagger-12b) -  a vision-language model (VLM) designed for video understanding at massive scale
