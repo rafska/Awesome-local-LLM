@@ -12,7 +12,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
   - [Specific models](#specific-models)
     - [General purpose](#general-purpose)
     - [Coding](#coding)
-    - [Vision](#vision)
+    - [Image](#image)
     - [Audio](#audio)
     - [Miscellaneous](#miscellaneous)
 - [Tools](#tools)
