@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rafska-awesome-local-llm-badge.png)](https://mseep.ai/app/rafska-awesome-local-llm)
+
 # Awesome-local-LLM
 A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally
 
