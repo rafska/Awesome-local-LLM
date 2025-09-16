@@ -52,16 +52,16 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" height="17"/> [ollama](https://github.com/ollama/ollama) - get up and running with LLMs
 - <img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social" height="17"/> [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- <img src="https://img.shields.io/github/stars/ikawrakow/ik_llama.cpp?style=social" height="17"/> [ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
-- <img src="https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social" height="17"/> [koboldcpp](https://github.com/LostRuins/koboldcpp) - run GGUF models easily with a KoboldAI UI
 - <img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social" height="17"/> [vllm](https://github.com/vllm-project/vllm) - a high-throughput and memory-efficient inference and serving engine for LLMs
-- <img src="https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=social" height="17"/> [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) - a lightweight vLLM implementation built from scratch
-- <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
-- <img src="https://img.shields.io/github/stars/ml-explore/mlx-lm?style=social" height="17"/> [mlx-lm](https://github.com/ml-explore/mlx-lm) - generate text and fine-tune large language models on Apple silicon with MLX
-- <img src="https://img.shields.io/github/stars/FastFlowLM/FastFlowLM?style=social" height="17"/> [FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - run LLMs on AMD Ryzen™ AI NPUs
 - <img src="https://img.shields.io/github/stars/exo-explore/exo?style=social" height="17"/> [exo](https://github.com/exo-explore/exo) - run your own AI cluster at home with everyday devices
-- <img src="https://img.shields.io/github/stars/gpustack/gpustack?style=social" height="17"/> [gpustack](https://github.com/gpustack/gpustack) - simple, scalable AI model deployment on GPU clusters
 - <img src="https://img.shields.io/github/stars/sgl-project/sglang?style=social" height="17"/> [sglang](https://github.com/sgl-project/sglang) - a fast serving framework for large language models and vision language models
+- <img src="https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social" height="17"/> [koboldcpp](https://github.com/LostRuins/koboldcpp) - run GGUF models easily with a KoboldAI UI
+- <img src="https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=social" height="17"/> [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) - a lightweight vLLM implementation built from scratch
+- <img src="https://img.shields.io/github/stars/ml-explore/mlx-lm?style=social" height="17"/> [mlx-lm](https://github.com/ml-explore/mlx-lm) - generate text and fine-tune large language models on Apple silicon with MLX
+- <img src="https://img.shields.io/github/stars/ikawrakow/ik_llama.cpp?style=social" height="17"/> [ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
+- <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
+- <img src="https://img.shields.io/github/stars/FastFlowLM/FastFlowLM?style=social" height="17"/> [FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - run LLMs on AMD Ryzen™ AI NPUs
+- <img src="https://img.shields.io/github/stars/gpustack/gpustack?style=social" height="17"/> [gpustack](https://github.com/gpustack/gpustack) - simple, scalable AI model deployment on GPU clusters
 - <img src="https://img.shields.io/github/stars/b4rtaz/distributed-llama?style=social" height="17"/> [distributed-llama](https://github.com/b4rtaz/distributed-llama) - connect home devices into a powerful cluster to accelerate LLM inference
 
 [Back to Table of Contents](#table-of-contents)
