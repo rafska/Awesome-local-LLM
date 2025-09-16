@@ -1,4 +1,4 @@
-# Awesome-local-LLM
+# <img src="https://awesome.re/badge.svg" width="150" align="texttop"/> local LLM
 A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally
 
 ## Table of Contents
