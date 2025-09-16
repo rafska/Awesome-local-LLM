@@ -16,9 +16,10 @@ A curated list of awesome platforms, tools, practices and resources that helps r
     - [Audio](#audio)
     - [Miscellaneous](#miscellaneous)
 - [Tools](#tools)
-  - [Coding Agents](#coding-agents)
+  - [Models](#models)
   - [Agent Frameworks](#agent-frameworks)
   - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
+  - [Coding Agents](#coding-agents)
   - [Computer Use](#computer-use)
   - [Browser Automation](#browser-automation)
   - [Memory Management](#memory-management)
@@ -28,7 +29,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
   - [Miscellaneous](#miscellaneous-1)
 - [Hardware](#hardware)
 - [Tutorials](#tutorials)
-  - [Models](#models)
+  - [Models](#models-1)
   - [Prompt Engineering](#prompt-engineering)
   - [Context Engineering](#context-engineering)
   - [Inference](#inference)
@@ -167,21 +168,9 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## Tools
 
-### Coding Agents
+### Models
 
-- <img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" height="17"/> [zed](https://github.com/zed-industries/zed) - a next-generation code editor designed for high-performance collaboration with humans and AI
-- <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
-- <img src="https://img.shields.io/github/stars/cline/cline?style=social" height="17"/> [cline](https://github.com/cline/cline) - autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way
-- <img src="https://img.shields.io/github/stars/Aider-AI/aider?style=social" height="17"/> [aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal
-- <img src="https://img.shields.io/github/stars/TabbyML/tabby?style=social" height="17"/> [tabby](https://github.com/TabbyML/tabby) -  an open-source GitHub Copilot alternative, set up your own LLM-powered code completion server
-- <img src="https://img.shields.io/github/stars/continuedev/continue?style=social" height="17"/> [continue](https://github.com/continuedev/continue) - create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
-- <img src="https://img.shields.io/github/stars/voideditor/void?style=social" height="17"/> [void](https://github.com/voideditor/void) - an open-source Cursor alternative, use AI agents on your codebase, checkpoint and visualize changes, and bring any model or host locally
-- <img src="https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social" height="17"/> [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - a whole dev team of AI agents in your code editor
-- <img src="https://img.shields.io/github/stars/block/goose?style=social" height="17"/> [goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions 
-- <img src="https://img.shields.io/github/stars/sst/opencode?style=social" height="17"/> [opencode](https://github.com/sst/opencode) - a AI coding agent built for the terminal
-- <img src="https://img.shields.io/github/stars/charmbracelet/crush?style=social" height="17"/> [crush](https://github.com/charmbracelet/crush) - the glamourous AI coding agent for your favourite terminal
-- <img src="https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social" height="17"/> [kilocode](https://github.com/Kilo-Org/kilocode) - open source AI coding assistant for planning, building, and fixing code
-- <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
+- <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" height="17"/> [unsloth](https://github.com/unslothai/unsloth) - fine-tuning & reinforcement learning for LLMs
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -214,6 +203,24 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/HKUDS/LightRAG?style=social" height="17"/> [LightRAG](https://github.com/HKUDS/LightRAG) - simple and fast RAG
 - <img src="https://img.shields.io/github/stars/getzep/graphiti?style=social" height="17"/> [graphiti](https://github.com/getzep/graphiti) - build real-time knowledge graphs for AI Agents 
 - <img src="https://img.shields.io/github/stars/vanna-ai/vanna?style=social" height="17"/> [vanna](https://github.com/vanna-ai/vanna) - an open-source Python RAG framework for SQL generation and related functionality
+
+[Back to Table of Contents](#table-of-contents)
+
+### Coding Agents
+
+- <img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" height="17"/> [zed](https://github.com/zed-industries/zed) - a next-generation code editor designed for high-performance collaboration with humans and AI
+- <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
+- <img src="https://img.shields.io/github/stars/cline/cline?style=social" height="17"/> [cline](https://github.com/cline/cline) - autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way
+- <img src="https://img.shields.io/github/stars/Aider-AI/aider?style=social" height="17"/> [aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal
+- <img src="https://img.shields.io/github/stars/TabbyML/tabby?style=social" height="17"/> [tabby](https://github.com/TabbyML/tabby) -  an open-source GitHub Copilot alternative, set up your own LLM-powered code completion server
+- <img src="https://img.shields.io/github/stars/continuedev/continue?style=social" height="17"/> [continue](https://github.com/continuedev/continue) - create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+- <img src="https://img.shields.io/github/stars/voideditor/void?style=social" height="17"/> [void](https://github.com/voideditor/void) - an open-source Cursor alternative, use AI agents on your codebase, checkpoint and visualize changes, and bring any model or host locally
+- <img src="https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social" height="17"/> [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - a whole dev team of AI agents in your code editor
+- <img src="https://img.shields.io/github/stars/block/goose?style=social" height="17"/> [goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions 
+- <img src="https://img.shields.io/github/stars/sst/opencode?style=social" height="17"/> [opencode](https://github.com/sst/opencode) - a AI coding agent built for the terminal
+- <img src="https://img.shields.io/github/stars/charmbracelet/crush?style=social" height="17"/> [crush](https://github.com/charmbracelet/crush) - the glamourous AI coding agent for your favourite terminal
+- <img src="https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social" height="17"/> [kilocode](https://github.com/Kilo-Org/kilocode) - open source AI coding assistant for planning, building, and fixing code
+- <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
 
 [Back to Table of Contents](#table-of-contents)
 
