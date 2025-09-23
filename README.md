@@ -12,6 +12,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
   - [Specific models](#specific-models)
     - [General purpose](#general-purpose)
     - [Coding](#coding)
+    - [Multimodal](#multimodal)
     - [Image](#image)
     - [Audio](#audio)
     - [Miscellaneous](#miscellaneous)
@@ -104,7 +105,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### General purpose
 
-- [Qwen3](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) - a collection of the latest generation Qwen LLMs
+- [Qwen3-Next](https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d) - a collection of the latest generation Qwen LLMs
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [Gemma 3](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d) - a family of lightweight, state-of-the-art open models from Google, built from the same research and technology used to create the Gemini models
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [gpt-oss](https://huggingface.co/collections/openai/gpt-oss-68911959590a1634ba11c7a4) - a collection of open-weight models from OpenAI, designed for powerful reasoning, agentic tasks, and versatile developer use cases
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mistral-Small-3.2-24B-Instruct-2506](https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506) - a versatile model designed to handle a wide range of generative AI tasks, including instruction following, conversational assistance, image understanding, and function calling
@@ -132,10 +133,16 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 [Back to Table of Contents](#table-of-contents)
 
+#### Multimodal
+
+- [Qwen3-Omni](https://huggingface.co/collections/Qwen/qwen3-omni-68d100a86cd0906843ceccbe) - a collection of the natively end-to-end multilingual omni-modal foundation models from Qwen
+
+[Back to Table of Contents](#table-of-contents)
+
 #### Image
 
 - [Qwen-Image](https://huggingface.co/Qwen/Qwen-Image) - an image generation foundation model in the Qwen series that achieves significant advances in complex text rendering and precise image editing
-- [Qwen-Image-Edit](https://huggingface.co/Qwen/Qwen-Image-Edit) - the image editing version of Qwen-Image extending the base model's unique text rendering capabilities to image editing tasks, enabling precise text editing
+- [Qwen-Image-Edit-2509](https://huggingface.co/Qwen/Qwen-Image-Edit-2509) - the image editing version of Qwen-Image extending the base model's unique text rendering capabilities to image editing tasks, enabling precise text editing
 - [GLM-4.5V](https://huggingface.co/zai-org/GLM-4.5V) - a VLLM based on ZhipuAI’s next-generation flagship text foundation model GLM-4.5-Air
 - [HunyuanImage-2.1](https://huggingface.co/tencent/HunyuanImage-2.1) - an efficient diffusion model for high-resolution (2K) text-to-image generation​ 
 - [FastVLM](https://huggingface.co/collections/apple/fastvlm-68ac97b9cd5cacefdd04872e) - a collection of VLMs with efficient vision encoding from Apple
