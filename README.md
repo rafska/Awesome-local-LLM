@@ -215,6 +215,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/vanna-ai/vanna?style=social" height="17" align="texttop"/> [vanna](https://github.com/vanna-ai/vanna) - an open-source Python RAG framework for SQL generation and related functionality
 - <img src="https://img.shields.io/github/stars/getzep/graphiti?style=social" height="17" align="texttop"/> [graphiti](https://github.com/getzep/graphiti) - build real-time knowledge graphs for AI Agents
 - <img src="https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social" height="17" align="texttop"/> [onyx](https://github.com/onyx-dot-app/onyx) - the AI platform connected to your company's docs, apps, and people
+- <img src="https://img.shields.io/github/stars/zilliztech/claude-context?style=social" height="17" align="texttop"/> [claude-context](https://github.com/zilliztech/claude-context) - make entire codebase the context for any coding agent
 
 [Back to Table of Contents](#table-of-contents)
 
