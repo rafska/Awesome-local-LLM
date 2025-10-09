@@ -203,6 +203,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/neuml/txtai?style=social" height="17" align="texttop"/> [txtai](https://github.com/neuml/txtai) - all-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
 - <img src="https://img.shields.io/github/stars/katanemo/archgw?style=social" height="17" align="texttop"/> [archgw](https://github.com/katanemo/archgw) - a high-performance proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and unifying access to LLMs, etc.
 - <img src="https://img.shields.io/github/stars/badboysm890/ClaraVerse?style=social" height="17" align="texttop"/> [ClaraVerse](https://github.com/badboysm890/ClaraVerse) - privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation
+- <img src="https://img.shields.io/github/stars/microsoft/agent-framework?style=social" height="17" align="texttop"/> [agent-framework](https://github.com/microsoft/agent-framework) - a framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET
 - <img src="https://img.shields.io/github/stars/deepsense-ai/ragbits?style=social" height="17" align="texttop"/> [ragbits](https://github.com/deepsense-ai/ragbits) - building blocks for rapid development of GenAI applications
 
 [Back to Table of Contents](#table-of-contents)
