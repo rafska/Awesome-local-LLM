@@ -333,6 +333,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Models
 
 - <img src="https://img.shields.io/youtube/views/l8pRSuU81PU?style=social" height="17" align="texttop"/> [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU)
+- <img src="https://img.shields.io/youtube/views/jrJKRYAdh7I?style=social" height="17" align="texttop"/> [Knowledge Distillation: How LLMs train each other](https://www.youtube.com/watch?v=jrJKRYAdh7I)
 - <img src="https://img.shields.io/github/stars/iuliaturc/gguf-docs?style=social" height="17" align="texttop"/> [gguf-docs](https://github.com/iuliaturc/gguf-docs) - Docs for GGUF quantization (unofficial)
 
 [Back to Table of Contents](#table-of-contents)
