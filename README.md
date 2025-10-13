@@ -340,6 +340,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Prompt Engineering
 
+- <img src="https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=social" height="17" align="texttop"/> [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - guides, papers, lecture, notebooks and resources for prompt engineering
 - <img src="https://img.shields.io/github/stars/NirDiamant/Prompt_Engineering?style=social" height="17" align="texttop"/> [Prompt Engineering by NirDiamant](https://github.com/NirDiamant/Prompt_Engineering) - a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [Prompting guide 101](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf) - a quick-start handbook for effective prompts by Google
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [Prompt Engineering by Google](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view) - prompt engineering by Google
