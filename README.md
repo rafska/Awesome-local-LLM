@@ -333,6 +333,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Models
 
 - <img src="https://img.shields.io/youtube/views/l8pRSuU81PU?style=social" height="17" align="texttop"/> [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU)
+- <img src="https://img.shields.io/github/stars/karpathy/nanochat?style=social" height="17" align="texttop"/> [nanochat](https://github.com/karpathy/nanochat) - a full-stack implementation of an LLM like ChatGPT in a single, clean, minimal, hackable, dependency-lite codebase, designed to run on a single 8XH100 node via scripts like speedrun.sh, that run the entire pipeline start to end
 - <img src="https://img.shields.io/youtube/views/jrJKRYAdh7I?style=social" height="17" align="texttop"/> [Knowledge Distillation: How LLMs train each other](https://www.youtube.com/watch?v=jrJKRYAdh7I)
 - <img src="https://img.shields.io/github/stars/iuliaturc/gguf-docs?style=social" height="17" align="texttop"/> [gguf-docs](https://github.com/iuliaturc/gguf-docs) - Docs for GGUF quantization (unofficial)
 
