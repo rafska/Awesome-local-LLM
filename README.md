@@ -19,6 +19,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Tools](#tools)
   - [Models](#models)
   - [Agent Frameworks](#agent-frameworks)
+  - [Model Context Protocol](#model-context-protocol)
   - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
   - [Coding Agents](#coding-agents)
   - [Computer Use](#computer-use)
@@ -205,6 +206,12 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/badboysm890/ClaraVerse?style=social" height="17" align="texttop"/> [ClaraVerse](https://github.com/badboysm890/ClaraVerse) - privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation
 - <img src="https://img.shields.io/github/stars/microsoft/agent-framework?style=social" height="17" align="texttop"/> [agent-framework](https://github.com/microsoft/agent-framework) - a framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET
 - <img src="https://img.shields.io/github/stars/deepsense-ai/ragbits?style=social" height="17" align="texttop"/> [ragbits](https://github.com/deepsense-ai/ragbits) - building blocks for rapid development of GenAI applications
+
+[Back to Table of Contents](#table-of-contents)
+
+### Model Context Protocol
+
+- <img src="https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social" height="17" align="texttop"/> [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 
 [Back to Table of Contents](#table-of-contents)
 
