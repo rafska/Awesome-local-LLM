@@ -183,6 +183,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Models
 
 - <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" height="17" align="texttop"/> [unsloth](https://github.com/unslothai/unsloth) - fine-tuning & reinforcement learning for LLMs
+- <img src="https://img.shields.io/github/stars/mostlygeek/llama-swap?style=social" height="17" align="texttop"/> [llama-swap](https://github.com/mostlygeek/llama-swap) - reliable model swapping for any local OpenAI compatible server - llama.cpp, vllm, etc.
 
 [Back to Table of Contents](#table-of-contents)
 
