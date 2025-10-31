@@ -266,6 +266,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/browser-use/browser-use?style=social" height="17" align="texttop"/> [browser-use](https://github.com/browser-use/browser-use) - make websites accessible for AI agents
 - <img src="https://img.shields.io/github/stars/mendableai/firecrawl?style=social" height="17" align="texttop"/> [firecrawl](https://github.com/mendableai/firecrawl) - turn entire websites into LLM-ready markdown or structured data
 - <img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" height="17" align="texttop"/> [stagehand](https://github.com/browserbase/stagehand) -  the AI Browser Automation Framework
+- <img src="https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social" height="17" align="texttop"/> [nanobrowser](https://github.com/nanobrowser/nanobrowser) -  open-source Chrome extension for AI-powered web automation
 
 [Back to Table of Contents](#table-of-contents)
 
