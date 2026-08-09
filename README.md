@@ -316,6 +316,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Coding Agents
 
 - <img src="https://img.shields.io/github/stars/sst/opencode?style=social" height="17" align="texttop"/> [opencode](https://github.com/sst/opencode) - a AI coding agent built for the terminal
+- <img src="https://img.shields.io/github/stars/L-Forster/open-jet?style=social" height="17" align="texttop"/> [OpenJet](https://github.com/L-Forster/open-jet) - a free, open-source local-first coding agent that sets up the model runtime for you
 - <img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" height="17" align="texttop"/> [zed](https://github.com/zed-industries/zed) - a next-generation code editor designed for high-performance collaboration with humans and AI
 - <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17" align="texttop"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
 - <img src="https://img.shields.io/github/stars/cline/cline?style=social" height="17" align="texttop"/> [cline](https://github.com/cline/cline) - autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way
