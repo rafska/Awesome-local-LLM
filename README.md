@@ -84,6 +84,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/brontoguana/krasis?style=social" height="17" align="texttop"/> [krasis](https://github.com/brontoguana/krasis) - a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware
 - <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17" align="texttop"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
 - <img src="https://img.shields.io/github/stars/intel/llm-scaler?style=social" height="17" align="texttop"/> [llm-scaler](https://github.com/intel/llm-scaler) - run LLMs on Intel Arc™ Pro B60 GPUs
+- <img src="https://img.shields.io/github/stars/pberlizov/vimin-public?style=social" height="17" align="texttop"/> [vimin-core](https://github.com/pberlizov/vimin-public) - orchestrate distributed local LLM and Whisper inference across up to 10 machines; MLX on Apple Silicon, llama.cpp elsewhere; air-gapped and privacy-first; MIT
 
 [Back to Table of Contents](#table-of-contents)
 
