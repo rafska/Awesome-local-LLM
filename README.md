@@ -330,6 +330,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/humanlayer/humanlayer?style=social" height="17" align="texttop"/> [humanlayer](https://github.com/humanlayer/humanlayer) - the best way to get AI coding agents to solve hard problems in complex codebases
 - <img src="https://img.shields.io/github/stars/ThePrimeagen/99?style=social" height="17" align="texttop"/> [99](https://github.com/ThePrimeagen/99) - neovim AI agent done right
 - <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17" align="texttop"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
+- <img src="https://img.shields.io/github/stars/autohandai/code-cli?style=social" height="17" align="texttop"/> [Autohand Code CLI](https://github.com/autohandai/code-cli) - a self-evolving autonomous coding agent for the terminal with native Ollama and local model support, multi-provider LLM integration, and 40+ built-in tools
 
 [Back to Table of Contents](#table-of-contents)
 
