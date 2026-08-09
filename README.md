@@ -106,6 +106,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [SWE-rebench](https://swe-rebench.com/) - a continuously evolving and decontaminated benchmark for software engineering LLMs
 - <img src="https://img.shields.io/github/stars/petergpt/bullshit-benchmark?style=social" height="17" align="texttop"/> [BullshitBench](https://github.com/petergpt/bullshit-benchmark) - measure whether AI models challenge nonsensical prompts instead of confidently answering them
 - [LLM Explorer](https://llm-explorer.com/) - explore list of the open-source LLM models
+- [Local LLM Matcher](https://locallmmatcher.com) - free browser-based tool that auto-detects your device specs (RAM, OS, GPU VRAM) and recommends compatible open-source LLMs for local deployment; supports 13+ model families including Llama, DeepSeek, Qwen, Mistral, Gemma, Phi-4; includes Ollama setup guides and GPU compatibility tables
 - [Dubesor LLM Benchmark table](https://dubesor.de/benchtable) - small-scale manual performance comparison benchmark
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
 - [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale
