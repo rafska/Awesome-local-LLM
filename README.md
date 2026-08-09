@@ -20,7 +20,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
     - [Miscellaneous](#miscellaneous)
 - [Tools](#tools)
   - [Models](#models)
-  - [Agent Frameworks](#agent-frameworks)
+  - [Agent Frameworks](#agent-frameworks): * [B.N.A.I Core]((https://github.com/StellNem/B.N.A.I-Core)) - A lightweight, self-hosted Python AI agent template using Streamlit & Ollama.
   - [Model Context Protocol](#model-context-protocol)
   - [Retrieval-Augmented Generation](#retrieval-augmented-generation-1)
   - [Coding Agents](#coding-agents)
