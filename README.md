@@ -416,6 +416,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/Guardrails?style=social" height="17" align="texttop"/> [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - an open-source toolkit from NVIDIA for easily adding programmable guardrails to LLM-based conversational systems
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/OpenShell?style=social" height="17" align="texttop"/> [OpenShell](https://github.com/NVIDIA/OpenShell) - the safe, private runtime for autonomous AI agents from NVIDIA
 - <img src="https://img.shields.io/github/stars/TencentCloud/CubeSandbox?style=social" height="17" align="texttop"/> [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - instant, concurrent, secure & lightweight sandbox for AI agents
+- <img src="https://img.shields.io/github/stars/Perufitlife/ollama-security?style=social" height="17" align="texttop"/> [ollama-security](https://github.com/Perufitlife/ollama-security) - active-probe auditor that detects a publicly exposed, unauthenticated Ollama server and proves model/compute leaks live via anonymous API and CORS probes
 
 [Back to Table of Contents](#table-of-contents)
 
