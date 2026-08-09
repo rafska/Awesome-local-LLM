@@ -161,6 +161,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B) - a 9-billion parameter coding agent model built by Tesslate, fine-tuned on top of Qwen3.5-9B's hybrid architecture
 - [NousCoder-14B](https://huggingface.co/NousResearch/NousCoder-14B) - a competitive programming model post-trained on Qwen3-14B via reinforcement learning
 - [MusaCoder-27B](https://huggingface.co/MooreThreads/MusaCoder-27B) - a code model developed by Moore Threads for PyTorch-to-CUDA/MUSA native kernel generation
+- [SwarmDo-A1](https://huggingface.co/SwarmDo/SwarmDo-A1) - an open, self-hostable multimodal coding model, shipped as a LoRA adapter on Qwen3.6-27B, that verifies patches by executing the project's tests
 
 [Back to Table of Contents](#table-of-contents)
 
