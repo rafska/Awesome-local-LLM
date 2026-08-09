@@ -432,6 +432,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/minitap-ai/mobile-use?style=social" height="17" align="texttop"/> [mobile-use](https://github.com/minitap-ai/mobile-use) - a powerful, open-source AI agent that controls your Android or IOS device using natural language
 - <img src="https://img.shields.io/github/stars/gabber-dev/gabber?style=social" height="17" align="texttop"/> [gabber](https://github.com/gabber-dev/gabber) - build AI applications that can see, hear, and speak using your screens, microphones, and cameras as inputs
 - <img src="https://img.shields.io/github/stars/sevenreasons/promptcat?style=social" height="17" align="texttop"/> [promptcat](https://github.com/sevenreasons/promptcat) - a zero-dependency prompt manager/catalog/library in a single HTML file
+- <img src="https://img.shields.io/github/stars/kurok/pyimgtag?style=social" height="17" align="texttop"/> [pyimgtag](https://github.com/kurok/pyimgtag) - a CLI photo tagger that uses a local vision model (Gemma via Ollama by default) to add searchable tags, scene categories, and EXIF-GPS-derived location to images, with query, scoring, and cleanup commands
 
 [Back to Table of Contents](#table-of-contents)
 
