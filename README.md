@@ -51,6 +51,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/menloresearch/jan?style=social" height="17" align="texttop"/> [jan](https://github.com/menloresearch/jan) - an open source alternative to ChatGPT that runs 100% offline on your computer
 - <img src="https://img.shields.io/github/stars/ChatBoxAI/ChatBox?style=social" height="17" align="texttop"/> [ChatBox](https://github.com/ChatBoxAI/ChatBox) - user-friendly desktop client app for AI models/LLMs
 - <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17" align="texttop"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration
+- [Genesis 2](https://github.com/larionovavi-stack/genesis2-cascade-moe) - Cascade MoE neural network that runs entirely on CPU (16GB RAM). 10,800+ experts, 18ms inference, zero catastrophic forgetting. Self-hosted with web UI and REST API. No GPU required.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -538,3 +539,4 @@ Improves Code Generation](https://arxiv.org/pdf/2604.01193)
 # Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started.
+
