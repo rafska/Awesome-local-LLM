@@ -46,6 +46,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ## Inference platforms
 
 - [LM Studio](https://lmstudio.ai/) - discover, download and run local LLMs
+- <img src="https://img.shields.io/github/stars/alichherawalla/off-grid-mobile-ai?style=social" height="17" align="texttop"/> [Off Grid](https://github.com/alichherawalla/off-grid-mobile-ai) - open-source iOS/Android/Mac app running LLMs entirely on-device via llama.cpp; voice (Whisper), vision, image gen, tool calling — fully offline, MIT
 - <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" height="17" align="texttop"/> [unsloth](https://github.com/unslothai/unsloth) -  unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally
 - <img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" height="17" align="texttop"/> [LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others
 - <img src="https://img.shields.io/github/stars/menloresearch/jan?style=social" height="17" align="texttop"/> [jan](https://github.com/menloresearch/jan) - an open source alternative to ChatGPT that runs 100% offline on your computer
