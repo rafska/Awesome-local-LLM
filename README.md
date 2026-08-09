@@ -110,6 +110,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
 - [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale
 - <img src="https://img.shields.io/github/stars/IBM/vakra?style=social" height="17" align="texttop"/> [vakra](https://github.com/IBM/vakra) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
+- <img src="https://img.shields.io/github/stars/i-need-token/ai-models?style=social" height="17" align="texttop"/> [AI Models Catalog](https://github.com/i-need-token/ai-models) - structured catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. Interactive catalog: https://i-need-token.github.io/ai-models/
 
 [Back to Table of Contents](#table-of-contents)
 
