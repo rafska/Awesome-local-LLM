@@ -296,6 +296,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/awslabs/mcp?style=social" height="17" align="texttop"/> [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP
 - <img src="https://img.shields.io/github/stars/sooperset/mcp-atlassian?style=social" height="17" align="texttop"/> [mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - <img src="https://img.shields.io/github/stars/bytebase/dbhub?style=social" height="17" align="texttop"/> [dbhub](https://github.com/bytebase/dbhub) - zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite
+- <img src="https://img.shields.io/github/stars/kubestellar/console?style=social" height="17" align="texttop"/> [kubestellar-console kc-agent](https://github.com/kubestellar/console) - MCP server for Kubernetes management — lets AI agents inspect pods, deployments, namespaces, RBAC, GPU workloads, and cluster health across multi-cluster environments
 
 [Back to Table of Contents](#table-of-contents)
 
