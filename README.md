@@ -88,6 +88,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social" height="17" align="texttop"/> [Text generation web UI](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support
 - <img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social" height="17" align="texttop"/> [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users
 - <img src="https://img.shields.io/github/stars/n4ze3m/page-assist?style=social" height="17" align="texttop"/> [Page Assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
+- <img src="https://img.shields.io/github/stars/KikoCis/elffuss-claw?style=social" height="17" align="texttop"/> [Elffuss Claw](https://github.com/KikoCis/elffuss-claw) - browser-native agentic OS; runs Gemma-4 on WebGPU (transformers.js fallback), generates apps on demand, installable skills, 100% local
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -298,6 +299,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/Aider-AI/aider?style=social" height="17" align="texttop"/> [aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal
 - <img src="https://img.shields.io/github/stars/TabbyML/tabby?style=social" height="17" align="texttop"/> [tabby](https://github.com/TabbyML/tabby) -  an open-source GitHub Copilot alternative, set up your own LLM-powered code completion server
 - <img src="https://img.shields.io/github/stars/continuedev/continue?style=social" height="17" align="texttop"/> [continue](https://github.com/continuedev/continue) - create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+- <img src="https://img.shields.io/github/stars/KikoCis/elffuss-code?style=social" height="17" align="texttop"/> [Elffuss Code](https://github.com/KikoCis/elffuss-code) - VS Code-style web IDE whose agent reads, searches and edits a local folder (File System Access API); the model runs in your browser on your own GPU (WebGPU)
 - <img src="https://img.shields.io/github/stars/voideditor/void?style=social" height="17" align="texttop"/> [void](https://github.com/voideditor/void) - an open-source Cursor alternative, use AI agents on your codebase, checkpoint and visualize changes, and bring any model or host locally
 - <img src="https://img.shields.io/github/stars/block/goose?style=social" height="17" align="texttop"/> [goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions 
 - <img src="https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social" height="17" align="texttop"/> [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - a whole dev team of AI agents in your code editor
