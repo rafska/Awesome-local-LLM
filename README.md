@@ -365,6 +365,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" height="17" align="texttop"/> [cognee](https://github.com/topoteretes/cognee) - memory for AI Agents in 5 lines of code
 - <img src="https://img.shields.io/github/stars/LMCache/LMCache?style=social" height="17" align="texttop"/> [LMCache](https://github.com/LMCache/LMCache) - supercharge your LLM with the fastest KV Cache Layer
 - <img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=social" height="17" align="texttop"/> [memU](https://github.com/NevaMind-AI/memU) - an open-source memory framework for AI companions
+- <img src="https://img.shields.io/github/stars/samvallad33/vestige?style=social" height="17" align="texttop"/> [Vestige](https://github.com/samvallad33/vestige) - local-first MCP memory server for coding agents with SQLite storage, FSRS-style retention, hybrid retrieval, provenance/correction tools, and dashboard inspection
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/google-research/reasoning-bank?style=social" height="17" align="texttop"/> [reasoning-bank](https://github.com/google-research/reasoning-bank) - a memory mechanism for agents that learns from both successful and failed trajectories, with reasoning stored as memory content
 
 [Back to Table of Contents](#table-of-contents)
