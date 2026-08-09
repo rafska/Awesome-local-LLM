@@ -296,6 +296,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/awslabs/mcp?style=social" height="17" align="texttop"/> [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP
 - <img src="https://img.shields.io/github/stars/sooperset/mcp-atlassian?style=social" height="17" align="texttop"/> [mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - <img src="https://img.shields.io/github/stars/bytebase/dbhub?style=social" height="17" align="texttop"/> [dbhub](https://github.com/bytebase/dbhub) - zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite
+- <img src="https://img.shields.io/github/stars/benbencodes/llm-prices?style=social" height="17" align="texttop"/> [llm-prices](https://github.com/benbencodes/llm-prices) - Zero-dependency Python CLI and MCP server for comparing LLM API costs across 273 models and 44 providers (OpenAI, Anthropic, Google, Mistral, DeepSeek, xAI, Qwen, and more). No API key needed — pricing data is baked in.
 
 [Back to Table of Contents](#table-of-contents)
 
