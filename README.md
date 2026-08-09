@@ -101,6 +101,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Explorers, Benchmarks, Leaderboards
 
+- [llm-speed](https://llm-speed.com) - crowdsourced, signed and reproducible benchmark of LLM inference speed (tok/s, TTFT, latency) across hosted APIs, consumer GPUs, and Apple Silicon
 - [Arena](https://arena.ai/) - benchmark & compare the best AI models
 - [AI Models & API Providers Analysis](https://artificialanalysis.ai/) - understand the AI landscape to choose the best model and provider for your use case
 - [SWE-rebench](https://swe-rebench.com/) - a continuously evolving and decontaminated benchmark for software engineering LLMs
