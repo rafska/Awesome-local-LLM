@@ -51,6 +51,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/menloresearch/jan?style=social" height="17" align="texttop"/> [jan](https://github.com/menloresearch/jan) - an open source alternative to ChatGPT that runs 100% offline on your computer
 - <img src="https://img.shields.io/github/stars/ChatBoxAI/ChatBox?style=social" height="17" align="texttop"/> [ChatBox](https://github.com/ChatBoxAI/ChatBox) - user-friendly desktop client app for AI models/LLMs
 - <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17" align="texttop"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration
+- <img src="https://img.shields.io/github/stars/alichherawalla/off-grid-mobile?style=social" height="17" align="texttop"/> [Off Grid](https://github.com/alichherawalla/off-grid-mobile) - on-device AI suite for mobile — run LLMs, Stable Diffusion, vision AI, and Whisper entirely on your phone with zero cloud dependency
 
 [Back to Table of Contents](#table-of-contents)
 
