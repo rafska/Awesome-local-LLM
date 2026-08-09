@@ -445,6 +445,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Kolosal - LLM Memory calculator](https://www.kolosal.ai/memory-calculator) - estimate the RAM requirements of any GGUF model instantly
 - [LLM Inference VRAM & GPU Requirement Calculator](https://app.linpp2009.com/en/llm-gpu-memory-calculator) - calculate how many GPUs you need to deploy LLMs
 - <img src="https://img.shields.io/github/stars/vosen/ZLUDA?style=social" height="17" align="texttop"/> [ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
+- [AI Local Check](https://ailocalcheck.com) - check if your PC can run a given LLM, with required RAM/VRAM per GGUF quantization from real model files
 - [Strix Halo AI Toolboxes](https://strix-halo-toolboxes.com/) - toolboxes for GenAI on AMD Ryzen AI MAX+: containerized environments for LLMs, Image Generation, and Fine-tuning
 - [Strix Halo Wiki](https://strixhalo.wiki/) - a website to gather important information and practical guides for systems powered by AMD Ryzen AI MAX and MAX+ processors
 - <img src="https://img.shields.io/github/stars/paudley/ai-notes?style=social" height="17" align="texttop"/> [ai-notes](https://github.com/paudley/ai-notes) - random AI notes for working with local models or playing around with random machine learning bits
