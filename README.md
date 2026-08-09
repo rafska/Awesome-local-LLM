@@ -370,6 +370,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 [Back to Table of Contents](#table-of-contents)
 
 ### Testing, Evaluation and Observability
+- <img src="https://img.shields.io/github/stars/GareBear99/ARC-Neuron-LLMBuilder?style=social" height="17" align="texttop"/> [ARC-Neuron LLMBuilder](https://github.com/GareBear99/ARC-Neuron-LLMBuilder) - local-first AI model lifecycle framework for deterministic small-model promotion, benchmark receipts, candidate/incumbent comparison, archive-ready lineage, and governed AI improvement
 
 - <img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" height="17" align="texttop"/> [langfuse](https://github.com/langfuse/langfuse) - an open-source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more
 - <img src="https://img.shields.io/github/stars/comet-ml/opik?style=social" height="17" align="texttop"/> [opik](https://github.com/comet-ml/opik) - debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards
