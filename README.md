@@ -315,6 +315,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Coding Agents
 
+- <img src="https://img.shields.io/github/stars/KaiFelixBennett/hermes-claude-code-local?style=social" height="17" align="texttop"/> [hermes-claude-code-local](https://github.com/KaiFelixBennett/hermes-claude-code-local) - run Claude Code and Hermes Agent locally on llama.cpp via LiteLLM - zero API costs, no rate limits, full privacy
 - <img src="https://img.shields.io/github/stars/sst/opencode?style=social" height="17" align="texttop"/> [opencode](https://github.com/sst/opencode) - a AI coding agent built for the terminal
 - <img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" height="17" align="texttop"/> [zed](https://github.com/zed-industries/zed) - a next-generation code editor designed for high-performance collaboration with humans and AI
 - <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17" align="texttop"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
