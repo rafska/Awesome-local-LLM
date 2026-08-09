@@ -101,6 +101,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Explorers, Benchmarks, Leaderboards
 
+- [ModelPriceWatch](https://modelpricewatch.com/) - track and compare live input/output API prices across 150+ LLM APIs and 24 providers, for the hosted-vs-local cost decision
 - [Arena](https://arena.ai/) - benchmark & compare the best AI models
 - [AI Models & API Providers Analysis](https://artificialanalysis.ai/) - understand the AI landscape to choose the best model and provider for your use case
 - [SWE-rebench](https://swe-rebench.com/) - a continuously evolving and decontaminated benchmark for software engineering LLMs
