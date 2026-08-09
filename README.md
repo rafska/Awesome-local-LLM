@@ -146,6 +146,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [EXAONE-4.5](https://huggingface.co/collections/LGAI-EXAONE/exaone-45) - LG's First Open-Weight Vision-Language Model for Industrial Intelligence
 - [Step-3.5-Flash](https://huggingface.co/stepfun-ai/Step-3.5-Flash) - most capable open-source foundation model, engineered to deliver frontier reasoning and agentic capabilities with exceptional efficiency
 - [Nex-N2](https://huggingface.co/collections/nex-agi/nex-n2) - a collection of agent models built for real-world productivity scenarios
+- [Kisoku-3.2b](https://huggingface.co/0arch-io/Kisoku-3.2b) - a 3.2B parameter model trained from scratch on consumer hardware, built on Granite architecture and fine-tuned for structured reasoning
 
 [Back to Table of Contents](#table-of-contents)
 
