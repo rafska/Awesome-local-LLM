@@ -537,4 +537,5 @@ Improves Code Generation](https://arxiv.org/pdf/2604.01193)
 
 # Contributing
 
+- [ANARCHY](https://github.com/psfr4590-afk/ANARCHY) - Fully local AI shell with Ollama, RAG search, LSP code diagnostics (pyright/clangd/rust-analyzer/gopls), smart git commit drafting, voice input, and task scheduler. No cloud, no API keys. Windows/macOS/Linux/Android.
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started.
