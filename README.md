@@ -431,6 +431,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/Roy3838/Observer?style=social" height="17" align="texttop"/> [Observer](https://github.com/Roy3838/Observer) - local open-source micro-agents that observe, log and react, all while keeping your data private and secure
 - <img src="https://img.shields.io/github/stars/minitap-ai/mobile-use?style=social" height="17" align="texttop"/> [mobile-use](https://github.com/minitap-ai/mobile-use) - a powerful, open-source AI agent that controls your Android or IOS device using natural language
 - <img src="https://img.shields.io/github/stars/gabber-dev/gabber?style=social" height="17" align="texttop"/> [gabber](https://github.com/gabber-dev/gabber) - build AI applications that can see, hear, and speak using your screens, microphones, and cameras as inputs
+- <img src="https://img.shields.io/github/stars/juanmanueldaza/linkedin2md?style=social" height="17" align="texttop"/> [linkedin2md](https://github.com/juanmanueldaza/linkedin2md) - zero-dependency CLI to convert LinkedIn data exports to clean Markdown for LLM analysis, with optional PDF resume generation
 - <img src="https://img.shields.io/github/stars/sevenreasons/promptcat?style=social" height="17" align="texttop"/> [promptcat](https://github.com/sevenreasons/promptcat) - a zero-dependency prompt manager/catalog/library in a single HTML file
 
 [Back to Table of Contents](#table-of-contents)
