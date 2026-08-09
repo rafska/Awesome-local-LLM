@@ -50,6 +50,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" height="17" align="texttop"/> [LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others
 - <img src="https://img.shields.io/github/stars/menloresearch/jan?style=social" height="17" align="texttop"/> [jan](https://github.com/menloresearch/jan) - an open source alternative to ChatGPT that runs 100% offline on your computer
 - <img src="https://img.shields.io/github/stars/ChatBoxAI/ChatBox?style=social" height="17" align="texttop"/> [ChatBox](https://github.com/ChatBoxAI/ChatBox) - user-friendly desktop client app for AI models/LLMs
+- <img src="https://img.shields.io/github/stars/Fangyuan025/Chaty?style=social" height="17" align="texttop"/> [Chaty](https://github.com/Fangyuan025/Chaty) - private desktop app for GGUF & MLX models with a local coding agent, knowledge base (RAG) and offline voice
 - <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17" align="texttop"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration
 
 [Back to Table of Contents](#table-of-contents)
