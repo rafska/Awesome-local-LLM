@@ -260,6 +260,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Agent Frameworks
 
+- <img src="https://img.shields.io/github/stars/CorvinLabs/CorvinOS?style=social" height="17" align="texttop"/> [CorvinOS](https://github.com/CorvinLabs/CorvinOS) - self-hosted agentic OS with EU AI Act & GDPR compliance built into the architecture — connects Ollama local models to Discord, Telegram, WhatsApp, Slack and Email; `pip install corvinos`
 - <img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" height="17" align="texttop"/> [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows
 - <img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social" height="17" align="texttop"/> [langflow](https://github.com/langflow-ai/langflow) - a powerful tool for building and deploying AI-powered agents and workflows
 - <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" height="17" align="texttop"/> [langchain](https://github.com/langchain-ai/langchain) - build context-aware reasoning applications
