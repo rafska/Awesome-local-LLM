@@ -310,6 +310,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social" height="17" align="texttop"/> [onyx](https://github.com/onyx-dot-app/onyx) - the AI platform connected to your company's docs, apps, and people
 - <img src="https://img.shields.io/github/stars/zilliztech/claude-context?style=social" height="17" align="texttop"/> [claude-context](https://github.com/zilliztech/claude-context) - make entire codebase the context for any coding agent
 - <img src="https://img.shields.io/github/stars/pipeshub-ai/pipeshub-ai?style=social" height="17" align="texttop"/> [pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) - a fully extensible and explainable workplace AI platform for enterprise search and workflow automation
+- <img src="https://img.shields.io/github/stars/7xuanlu/wenlan?style=social" height="17" align="texttop"/> [Wenlan](https://github.com/7xuanlu/wenlan) - source-backed local AI knowledge base for coding agents
 
 [Back to Table of Contents](#table-of-contents)
 
