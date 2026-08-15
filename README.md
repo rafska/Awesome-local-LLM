@@ -69,15 +69,20 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/EricLBuehler/mistral.rs?style=social" height="17" align="texttop"/> [mistral.rs](https://github.com/EricLBuehler/mistral.rs) - fast, flexible LLM inference
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/ai-dynamo/dynamo?style=social" height="17" align="texttop"/> [dynamo](https://github.com/ai-dynamo/dynamo) - a datacenter scale distributed inference serving framework
 - <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social" height="17" align="texttop"/> [flashinfer](https://github.com/flashinfer-ai/flashinfer) - kernel library for LLM serving
-- <img src="https://img.shields.io/github/stars/gpustack/gpustack?style=social" height="17" align="texttop"/> [gpustack](https://github.com/gpustack/gpustack) - simple, scalable AI model deployment on GPU clusters
 - <img src="https://img.shields.io/github/stars/ml-explore/mlx-lm?style=social" height="17" align="texttop"/> [mlx-lm](https://github.com/ml-explore/mlx-lm) - generate text and fine-tune large language models on Apple silicon with MLX
-- <img src="https://img.shields.io/github/stars/sgl-project/mini-sglang?style=social" height="17" align="texttop"/> [mini-sglang](https://github.com/sgl-project/mini-sglang) - a lightweight yet high-performance inference framework for Large Language Models
+- <img src="https://img.shields.io/github/stars/gpustack/gpustack?style=social" height="17" align="texttop"/> [gpustack](https://github.com/gpustack/gpustack) - simple, scalable AI model deployment on GPU clusters
+- <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/google-ai-edge/LiteRT-LM?style=social" height="17" align="texttop"/> [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices
 - <img src="https://img.shields.io/github/stars/Blaizzy/mlx-vlm?style=social" height="17" align="texttop"/> [mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX
+- <img src="https://img.shields.io/github/stars/pytorch/executorch?style=social" height="17" align="texttop"/> [executorch](https://github.com/pytorch/executorch) - on-device AI across mobile, embedded and edge for PyTorch
+- <img src="https://img.shields.io/github/stars/sgl-project/mini-sglang?style=social" height="17" align="texttop"/> [mini-sglang](https://github.com/sgl-project/mini-sglang) - a lightweight yet high-performance inference framework for Large Language Models
 - <img src="https://img.shields.io/github/stars/b4rtaz/distributed-llama?style=social" height="17" align="texttop"/> [distributed-llama](https://github.com/b4rtaz/distributed-llama) - connect home devices into a powerful cluster to accelerate LLM inference
+- <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/google-ai-edge/litert?style=social" height="17" align="texttop"/> [LiteRT](https://github.com/google-ai-edge/litert) - Google's on-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
 - <img src="https://img.shields.io/github/stars/ikawrakow/ik_llama.cpp?style=social" height="17" align="texttop"/> [ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
+- <img src="https://img.shields.io/github/stars/dphnAI/sonar?style=social" height="17" align="texttop"/> [sonar](https://github.com/dphnAI/sonar) - large-scale LLM inference engine based on vLLM
 - <img src="https://img.shields.io/github/stars/FastFlowLM/FastFlowLM?style=social" height="17" align="texttop"/> [FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - run LLMs on AMD Ryzen™ AI NPUs
-- <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17" align="texttop"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
+- <img src="https://img.shields.io/github/stars/lightseekorg/tokenspeed?style=social" height="17" align="texttop"/> [tokenspeed](https://github.com/lightseekorg/tokenspeed) - a speed-of-light LLM inference engine
 - <img src="https://img.shields.io/github/stars/brontoguana/krasis?style=social" height="17" align="texttop"/> [krasis](https://github.com/brontoguana/krasis) - a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware
+- <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17" align="texttop"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
 - <img src="https://img.shields.io/github/stars/intel/llm-scaler?style=social" height="17" align="texttop"/> [llm-scaler](https://github.com/intel/llm-scaler) - run LLMs on Intel Arc™ Pro B60 GPUs
 
 [Back to Table of Contents](#table-of-contents)
@@ -124,21 +129,23 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### General purpose
 
+- [DeepSeek-V4](https://huggingface.co/collections/deepseek-ai/deepseek-v4) - a collection of the DeepSeek V4 LLMs
 - [Qwen3.6](https://huggingface.co/collections/Qwen/qwen36) - a collection of the latest generation Qwen LLMs
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [NVIDIA Nemotron v3](https://huggingface.co/collections/nvidia/nvidia-nemotron-v3) - a family of open models from NVIDIA with open weights, training data and recipes, delivering leading efficiency and accuracy for building specialized AI agents
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [Gemma 4](https://huggingface.co/collections/google/gemma-4) - a family of open models built by Google DeepMind, that are multimodal, handling text and image input (with audio supported on small models) and generating text output
-- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mistral Small 4](https://huggingface.co/collections/mistralai/mistral-small-4) - A state-of-the-art model from Mistral, open-weight, with a granular Mixture-of-Experts architecture that fuses instruct, reasoning and agentic skills
+- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mistral Medium 3.5](https://huggingface.co/collections/mistralai/mistral-medium-35) - The first flaship models from Mistral AI handling instruction-following, reasoning, and coding in a single set of opened-weights
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [gpt-oss](https://huggingface.co/collections/openai/gpt-oss-68911959590a1634ba11c7a4) - a collection of open-weight models from OpenAI, designed for powerful reasoning, agentic tasks, and versatile developer use cases
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [gpt-oss-puzzle-88B](https://huggingface.co/nvidia/gpt-oss-puzzle-88B) - a deployment-optimized large language model developed by NVIDIA, derived from OpenAI's gpt-oss-120b
 - [Hunyuan](https://huggingface.co/collections/tencent/hunyuan-dense-model-6890632cda26b19119c9c5e7) - a collection of Tencent's open-source efficient LLMs designed for versatile deployment across diverse computational environments
 - [Phi-4](https://huggingface.co/collections/microsoft/phi-4) - a family of small language, multi-modal and reasoning models from Microsoft
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [OpenReasoning-Nemotron](https://huggingface.co/collections/nvidia/openreasoning-nemotron-687730dae0170059860f1f01) - a collection of models from NVIDIA, trained on 5M reasoning traces for math, code and science
-- [GLM-5](https://huggingface.co/zai-org/GLM-5) - a model targeting complex systems engineering and long-horizon agentic tasks
-- [Granite 4.0](https://huggingface.co/collections/ibm-granite/granite-40-language-models-6811a18b820ef362d9e5a82c) - a collection of lightweight, state-of-the-art open foundation models from IBM that natively support multilingual capabilities, a wide range of coding tasks—including fill-in-the-middle (FIM) code completion—retrieval-augmented generation (RAG), tool usage and structured JSON output
-- [EXAONE-4.0](https://huggingface.co/collections/LGAI-EXAONE/exaone-40-686b2e0069800c835ed48375) - a collection of LLMs from LG AI Research, integrating non-reasoning and reasoning modes
-- [ERNIE 4.5](https://huggingface.co/collections/baidu/ernie-45-6861cd4c9be84540645f35c9) - a collection of large-scale multimodal models from Baidu
-- [Seed-OSS](https://huggingface.co/collections/ByteDance-Seed/seed-oss-68a609f4201e788db05b5dcd) - a collection of LLMs developed by ByteDance's Seed Team, designed for powerful long-context, reasoning, agent and general capabilities, and versatile developer-friendly features
+- [Kimi K2.5](https://huggingface.co/collections/moonshotai/kimi-k25) - a collection of open-source, native multimodal agentic models from Moonshot AI that advances practical capabilities in long-horizon coding, coding-driven design, proactive autonomous execution, and swarm-based task orchestration
+- [GLM-5.2](https://huggingface.co/collections/zai-org/glm-52) - a Z.ai's flagship model for long-horizon tasks
+- [Ling-3.0-flash](https://huggingface.co/inclusionAI/Ling-3.0-flash) - a native hybrid reasoning model from inclusionAI, operating with 124B total and 5.1B active parameters 
+- [Granite 4.1](https://huggingface.co/collections/ibm-granite/granite-41-language-models) - efficient language models from IBM for multilingual generation, coding, RAG, and AI assistant workflows
+- [EXAONE-4.5](https://huggingface.co/collections/LGAI-EXAONE/exaone-45) - LG's First Open-Weight Vision-Language Model for Industrial Intelligence
 - [Step-3.5-Flash](https://huggingface.co/stepfun-ai/Step-3.5-Flash) - most capable open-source foundation model, engineered to deliver frontier reasoning and agentic capabilities with exceptional efficiency
+- [Nex-N2](https://huggingface.co/collections/nex-agi/nex-n2) - a collection of agent models built for real-world productivity scenarios
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -146,14 +153,14 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - [Qwen3-Coder-Next](https://huggingface.co/collections/Qwen/qwen3-coder-next) - a collection of Qwen's open-weight language models designed specifically for coding agents and local development
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Devstral 2](https://huggingface.co/collections/mistralai/devstral-2) - a couple of agentic LLMs for software engineering tasks, excelling at using tools to explore codebases, edit multiple files, and power SWE Agents
-- [GLM-4.7](https://huggingface.co/collections/zai-org/glm-47) - a collection of agentic, reasoning and coding (ARC) foundation models
+- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mellum 2](https://huggingface.co/collections/JetBrains/mellum-2) - an assistant model trained by JetBrain
+- [MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) - a native multimodal model with 1M context
 - [MiniMax-M2](https://huggingface.co/collections/MiniMaxAI/minimax-m2) - a collection of SOTA models for real-world dev & agents
+- [Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) - a 118B total parameter Mixture-of-Experts model with 8B activated parameters per token, designed for agentic coding and long-horizon work
+- [SWE-FastContext](https://huggingface.co/collections/microsoft/swe-fastcontext) - a family of code-search models from Microsoft powering the Explore subagent for coding agents
 - [OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B) - a 9-billion parameter coding agent model built by Tesslate, fine-tuned on top of Qwen3.5-9B's hybrid architecture
 - [NousCoder-14B](https://huggingface.co/NousResearch/NousCoder-14B) - a competitive programming model post-trained on Qwen3-14B via reinforcement learning
-- [FrogBoss-32B-2510](https://huggingface.co/microsoft/FrogBoss-32B-2510) & [FrogMini-14B-2510](https://huggingface.co/microsoft/FrogMini-14B-2510) - coding agents specialized in fixing bugs in code obtained by fine‑tuning a Qwen3‑32B and Qwen3‑14B language model, respectively, on debugging trajectories generated by Claude Sonnet 4 within the BugPilot framework
-- [Jan-code](https://huggingface.co/collections/janhq/jan-code) - a small code-tuned model focuses on handling well-scoped subtasks reliably while keeping latency and compute requirements small
-- [Mellum-4b-base](https://huggingface.co/JetBrains/Mellum-4b-base) - an LLM from JetBrains, optimized for code-related tasks
-- [Stable-DiffCoder](https://huggingface.co/collections/ByteDance-Seed/stable-diffcoder) - a strong code diffusion large language model
+- [MusaCoder-27B](https://huggingface.co/MooreThreads/MusaCoder-27B) - a code model developed by Moore Threads for PyTorch-to-CUDA/MUSA native kernel generation
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -169,11 +176,12 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Qwen-Image](https://huggingface.co/collections/Qwen/qwen-image) - a collection of models for image generation, edit and decomposition from Qwen
 - [Qwen3-VL](https://huggingface.co/collections/Qwen/qwen3-vl-68d2a7c1b8a8afce4ebd2dbe) - a collection of the most powerful vision-language models in the Qwen series to date
 - [GLM-Image](https://huggingface.co/zai-org/GLM-Image) - an image generation model
+- [Granite Vision](https://huggingface.co/collections/ibm-granite/granite-vision) - multimodal models from IBM built for visual document analysis and image understanding
 - [HunyuanImage](https://huggingface.co/collections/tencent/hunyuanimage) - a collection of image generation models from Tencent
 - [HunyuanVideo](https://huggingface.co/collections/tencent/hunyuanvideo) - a collection of video generation models from Tencent 
 - [Vidi](https://huggingface.co/collections/bytedance-research/vidi) - a collection of models for multimodal video understanding and creation
 - [FastVLM](https://huggingface.co/collections/apple/fastvlm-68ac97b9cd5cacefdd04872e) - a collection of VLMs with efficient vision encoding from Apple
-- [MiniCPM-V-4_5](https://huggingface.co/openbmb/MiniCPM-V-4_5) - a GPT-4o Level MLLM for single image, multi image and high-FPS video understanding on your phone
+- [MiniCPM-o & MiniCPM-V](https://huggingface.co/collections/openbmb/minicpm-o-and-minicpm-v) - multimodal models with leading performance
 - [LFM2-VL](https://huggingface.co/collections/LiquidAI/lfm2-vl-68963bbc84a610f7638d5ffa) - a colection of vision-language models, designed for on-device deployment
 - [ClipTagger-12b](https://huggingface.co/inference-net/ClipTagger-12b) -  a vision-language model (VLM) designed for video understanding at massive scale
 
@@ -182,7 +190,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 #### Audio
 
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [whisper-large-v3](https://huggingface.co/openai/whisper-large-v3) - a state-of-the-art model for automatic speech recognition (ASR) and speech translation from OpenAI
-- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron Speech](https://huggingface.co/collections/nvidia/nemotron-speech) - a collection of open, state-of-the-art, production‑ready enterprise speech models from the NVIDIA Speech research team for ASR, TTS, Speaker Diarization and S2S
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron Speech](https://huggingface.co/collections/nvidia/nemotron-speech) - a collection of open, state-of-the-art, production‑ready enterprise speech models from NVIDIA for ASR, TTS, Speaker Diarization and S2SOpenAI
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [NVIDIA NemotronLabs VoiceChat 11B](https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B) - a 11B end-to-end, real-time speech full duplex (FD) model from NVIDIA for conversational AI that jointly performs streaming speech understanding and speech generation
 - [Qwen3-ASR](https://huggingface.co/collections/Qwen/qwen3-asr) - a collection of models that support language identification and ASR for 52 languages and dialects
 - [Qwen3-TTS](https://huggingface.co/collections/Qwen/qwen3-tts) - a collection of TTS models that cover 10 major languages as well as multiple dialectal voice profiles to meet global application needs
 - [Granite Speech](https://huggingface.co/collections/ibm-granite/granite-speech) - a collection of compact and efficient speech-language models from IBM, specifically designed for multilingual automatic speech recognition (ASR) and bidirectional automatic speech translation (AST)
@@ -208,11 +217,16 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### Safeguards
 
-- <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [gpt-oss-safeguard](https://huggingface.co/collections/openai/gpt-oss-safeguard) - a collection of safety reasoning models built-upon gpt-oss
-- [Granite Guardian Models](https://huggingface.co/collections/ibm-granite/granite-guardian-models) - a collection of models created by IBM for safeguarding language models
+- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Shieldstral 1.0 3B](https://huggingface.co/mistralai/Shieldstral-1.0-3B) - a compact 3B-parameter, policy-adaptive multimodal safety classifier
+- [Granite Guardian](https://huggingface.co/collections/ibm-granite/granite-guardian) - a collection of safety models from IBM for detecting risks, toxicity, and hallucinations in LLM workflows
 - [Qwen3Guard](https://huggingface.co/collections/Qwen/qwen3guard-68d2729abbfae4716f3343a1) - a collection of safety moderation models built upon Qwen3
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [NemoGuard](https://huggingface.co/collections/nvidia/nemoguard) - a collection of models from NVIDIA for content safety, topic-following and security guardrails
-- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron-3-Content-Safety](https://huggingface.co/nvidia/Nemotron-3-Content-Safety) - a content-safety moderator from NVIDIA for both inputs to and responses from LLMs and VLMs
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron-3.5-Content-Safety](https://huggingface.co/nvidia/Nemotron-3.5-Content-Safety) - a small language model (SLM) that uses Google's Gemma-3-4B-it as the base and is fine-tuned by NVIDIA on multimodal, multilingual, and reasoning-oriented content-safety datasets
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Privasis](https://huggingface.co/collections/nvidia/privasis) - a collection of lightweight text-sanitization models from NVIDIA designed to remove or abstract sensitive information from text according to a user-provided sanitization instruction
+- [SingGuard](https://huggingface.co/collections/inclusionAI/singguard) - a collection of policy-adaptive multimodal LLM Guardrails with dynamic reasoning 
+- [HARC](https://huggingface.co/collections/microsoft/harc) - a family of safety-aligned instruction models from Microsoft trained with HARC
+- <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [gpt-oss-safeguard](https://huggingface.co/collections/openai/gpt-oss-safeguard) - a collection of safety reasoning models built-upon gpt-oss from OpenAI
+- <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [privacy-filter](https://huggingface.co/openai/privacy-filter) - a bidirectional token-classification model from OpenAI for personally identifiable information (PII) detection and masking in text
 - [AprielGuard](https://huggingface.co/ServiceNow-AI/AprielGuard) - a safeguard model designed to detect and mitigate both safety risks and security threats in LLM interactions
 
 [Back to Table of Contents](#table-of-contents)
@@ -220,6 +234,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 #### Miscellaneous
 
 - [AmicoScript](https://github.com/sim186/AmicoScript) - local-first audio/video transcription with Whisper, speaker diarization, Ollama integration for AI analysis, and URL import from YouTube, TikTok, Instagram and more 
+- [Intern-S2](https://huggingface.co/collections/internlm/intern-s2) - a collection of multimodal foundation models for scientific intelligence and long-horizon agents
+- [Fara1.5](https://huggingface.co/collections/microsoft/fara15) - a collection of multimodal computer use agents (CUA) for web browsers from Microsoft
 - [Marco-MoE](https://huggingface.co/collections/AIDC-AI/marco-moe) - a suit of multilingual MoE models with highly-sparse architectures
 - [Jan-v3](https://huggingface.co/collections/janhq/jan-v3) - a 4B baseline model for fine-tuning, designed for downstream work: improved instruction following out of the box, strong starting point for fine-tuning and effective lightweight coding assistance
 - [Jan-v2-VL](https://huggingface.co/collections/janhq/jan-v2-vl) - a family of VLM focused on reliable, many-step task execution
@@ -239,6 +255,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/AlexsJones/llmfit?style=social" height="17" align="texttop"/> [llmfit](https://github.com/AlexsJones/llmfit) - hundreds of models & providers, one command to find what runs on your hardware
 - <img src="https://img.shields.io/github/stars/dottxt-ai/outlines?style=social" height="17" align="texttop"/> [outlines](https://github.com/dottxt-ai/outlines) - structured outputs for LLMs
 - <img src="https://img.shields.io/github/stars/mostlygeek/llama-swap?style=social" height="17" align="texttop"/> [llama-swap](https://github.com/mostlygeek/llama-swap) - reliable model swapping for any local OpenAI compatible server - llama.cpp, vllm, etc.
+- <img src="https://img.shields.io/github/stars/guidance-ai/llguidance?style=social" height="17" align="texttop"/> [llguidance](https://github.com/guidance-ai/llguidance) - super-fast structured outputs
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -247,9 +264,10 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" height="17" align="texttop"/> [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows
 - <img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social" height="17" align="texttop"/> [langflow](https://github.com/langflow-ai/langflow) - a powerful tool for building and deploying AI-powered agents and workflows
 - <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" height="17" align="texttop"/> [langchain](https://github.com/langchain-ai/langchain) - build context-aware reasoning applications
-- <img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" height="17" align="texttop"/> [autogen](https://github.com/microsoft/autogen) - a programming framework for agentic AI
 - <img src="https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social" height="17" align="texttop"/> [anything-llm](https://github.com/Mintplex-Labs/anything-llm) - the all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more
+- <img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" height="17" align="texttop"/> [autogen](https://github.com/microsoft/autogen) - a programming framework for agentic AI
 - <img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social" height="17" align="texttop"/> [Flowise](https://github.com/FlowiseAI/Flowise) - build AI agents, visually
+- <img src="https://img.shields.io/github/stars/earendil-works/pi?style=social" height="17" align="texttop"/> [pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social" height="17" align="texttop"/> [llama_index](https://github.com/run-llama/llama_index) - the leading framework for building LLM-powered agents over your data
 - <img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=social" height="17" align="texttop"/> [crewAI](https://github.com/crewAIInc/crewAI) - a framework for orchestrating role-playing, autonomous AI agents
 - <img src="https://img.shields.io/github/stars/agno-agi/agno?style=social" height="17" align="texttop"/> [agno](https://github.com/agno-agi/agno) - a full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning
@@ -262,7 +280,9 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/neuml/txtai?style=social" height="17" align="texttop"/> [txtai](https://github.com/neuml/txtai) - all-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
 - <img src="https://img.shields.io/github/stars/microsoft/agent-framework?style=social" height="17" align="texttop"/> [agent-framework](https://github.com/microsoft/agent-framework) - a framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET
 - <img src="https://img.shields.io/github/stars/katanemo/archgw?style=social" height="17" align="texttop"/> [archgw](https://github.com/katanemo/archgw) - a high-performance proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and unifying access to LLMs, etc.
+- <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/genkit-ai/genkit?style=social" height="17" align="texttop"/> [genkit](https://github.com/genkit-ai/genkit) - open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
 - <img src="https://img.shields.io/github/stars/badboysm890/ClaraVerse?style=social" height="17" align="texttop"/> [ClaraVerse](https://github.com/badboysm890/ClaraVerse) - privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/NeMo-Agent-Toolkit?style=social" height="17" align="texttop"/> [NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) - an open-source library for efficiently connecting and optimizing teams of AI agents
 - <img src="https://img.shields.io/github/stars/deepsense-ai/ragbits?style=social" height="17" align="texttop"/> [ragbits](https://github.com/deepsense-ai/ragbits) - building blocks for rapid development of GenAI applications
 
 [Back to Table of Contents](#table-of-contents)
@@ -346,6 +366,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" height="17" align="texttop"/> [cognee](https://github.com/topoteretes/cognee) - memory for AI Agents in 5 lines of code
 - <img src="https://img.shields.io/github/stars/LMCache/LMCache?style=social" height="17" align="texttop"/> [LMCache](https://github.com/LMCache/LMCache) - supercharge your LLM with the fastest KV Cache Layer
 - <img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=social" height="17" align="texttop"/> [memU](https://github.com/NevaMind-AI/memU) - an open-source memory framework for AI companions
+- <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/google-research/reasoning-bank?style=social" height="17" align="texttop"/> [reasoning-bank](https://github.com/google-research/reasoning-bank) - a memory mechanism for agents that learns from both successful and failed trajectories, with reasoning stored as memory content
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -354,9 +375,9 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" height="17" align="texttop"/> [langfuse](https://github.com/langfuse/langfuse) - an open-source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more
 - <img src="https://img.shields.io/github/stars/comet-ml/opik?style=social" height="17" align="texttop"/> [opik](https://github.com/comet-ml/opik) - debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards
 - <img src="https://img.shields.io/github/stars/traceloop/openllmetry?style=social" height="17" align="texttop"/> [openllmetry](https://github.com/traceloop/openllmetry) - an open-source observability for your LLM application, based on OpenTelemetry
-- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/garak?style=social" height="17" align="texttop"/> [garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner from NVIDIA
 - <img src="https://img.shields.io/github/stars/Giskard-AI/giskard?style=social" height="17" align="texttop"/> [giskard](https://github.com/Giskard-AI/giskard) - an open-source evaluation & testing for AI & LLM systems
 - <img src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" height="17" align="texttop"/> [agenta](https://github.com/Agenta-AI/agenta) - an open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/evaluator?style=social" height="17" align="texttop"/> [Evaluator](https://github.com/NVIDIA-NeMo/evaluator) - open-source library for scalable, reproducible evaluation of AI models and benchmarks
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -379,16 +400,23 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/huggingface/sentence-transformers?style=social" height="17" align="texttop"/> [sentence-transformers](https://github.com/huggingface/sentence-transformers) - a Python library for using and training embedding and reranker models for applications like retrieval augmented generation, semantic search, and more
 - <img src="https://img.shields.io/github/stars/huggingface/trl?style=social" height="17" align="texttop"/> [trl](https://github.com/huggingface/trl) - train transformer language models with reinforcement learning
 - <img src="https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social" height="17" align="texttop"/> [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - an easy-to-use, high-performance open-source RLHF framework built on Ray, vLLM, ZeRO-3 and HuggingFace Transformers, designed to make RLHF training simple and accessible
+- <img src="https://img.shields.io/github/stars/THUDM/slime?style=social" height="17" align="texttop"/> [slime](https://github.com/THUDM/slime) - an LLM post-training framework for RL Scaling
 - <img src="https://img.shields.io/github/stars/kiln-ai/kiln?style=social" height="17" align="texttop"/> [Kiln](https://github.com/kiln-ai/kiln) - the easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets
+- <img src="https://img.shields.io/github/stars/meta-pytorch/OpenEnv?style=social" height="17" align="texttop"/> [OpenEnv](https://github.com/meta-pytorch/OpenEnv) - an interface library for RL post training with environments
 - <img src="https://img.shields.io/github/stars/e-p-armstrong/augmentoolkit?style=social" height="17" align="texttop"/> [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - train an open-source LLM on new facts
-- <img src="https://img.shields.io/github/stars/AgentToolkit/altk-evolve?style=social" height="17" align="texttop"/> [altk-evolve](https://github.com/AgentToolkit/altk-evolve) - a system designed to help agents improve over time by learning from their trajectories
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/nvidia-nemo/rl?style=social" height="17" align="texttop"/> [RL](https://github.com/nvidia-nemo/rl) - scalable toolkit for efficient model reinforcement
+- <img src="https://img.shields.io/github/stars/radixark/miles?style=social" height="17" align="texttop"/> [miles](https://github.com/radixark/miles) - an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/gym?style=social" height="17" align="texttop"/> [Gym](https://github.com/NVIDIA-NeMo/gym) - evaluate and improve models and agents using environments
+- <img src="https://img.shields.io/github/stars/sgl-project/SpecForge?style=social" height="17" align="texttop"/> [SpecForge](https://github.com/sgl-project/SpecForge) - train speculative decoding models effortlessly and port them smoothly to SGLang serving
 
 [Back to Table of Contents](#table-of-contents)
 
 ### Security and Sandboxing
 
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/garak?style=social" height="17" align="texttop"/> [garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner from NVIDIA
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/Guardrails?style=social" height="17" align="texttop"/> [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - an open-source toolkit from NVIDIA for easily adding programmable guardrails to LLM-based conversational systems
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/OpenShell?style=social" height="17" align="texttop"/> [OpenShell](https://github.com/NVIDIA/OpenShell) - the safe, private runtime for autonomous AI agents from NVIDIA
+- <img src="https://img.shields.io/github/stars/TencentCloud/CubeSandbox?style=social" height="17" align="texttop"/> [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - instant, concurrent, secure & lightweight sandbox for AI agents
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -413,12 +441,15 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCajiMK_CY9icRhLepS8_3ug?style=social" height="17" align="texttop"/> [Alex Ziskind](https://www.youtube.com/@AZisk) - tests of pcs, laptops, gpus etc. capable of running LLMs
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCiaQzXI5528Il6r2NNkrkJA?style=social" height="17" align="texttop"/> [Digital Spaceport](https://www.youtube.com/@DigitalSpaceport) - reviews of various builds designed for LLM inference
+- <img src="https://img.shields.io/youtube/channel/subscribers/UCP0QFok6EimQYTMj5qOLNow?style=social" height="17" align="texttop"/> [Donato Capitella](https://www.youtube.com/@donatocapitella) - practical and insightful tutorials on running LLMs locally
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCQs0lwV6E4p7LQaGJ6fgy5Q?style=social" height="17" align="texttop"/> [JetsonHacks](https://www.youtube.com/@JetsonHacks) - information about developing on NVIDIA Jetson Development Kits
 - <img src="https://img.shields.io/youtube/channel/subscribers/UC8h2Sf-yyo1WXeEUr-OHgyg?style=social" height="17" align="texttop"/> [Miyconst](https://www.youtube.com/@Miyconst) - tests of various types of hardware capable of running LLMs
 - [Kolosal - LLM Memory calculator](https://www.kolosal.ai/memory-calculator) - estimate the RAM requirements of any GGUF model instantly
 - [LLM Inference VRAM & GPU Requirement Calculator](https://app.linpp2009.com/en/llm-gpu-memory-calculator) - calculate how many GPUs you need to deploy LLMs
 - <img src="https://img.shields.io/github/stars/vosen/ZLUDA?style=social" height="17" align="texttop"/> [ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
+- [Strix Halo AI Toolboxes](https://strix-halo-toolboxes.com/) - toolboxes for GenAI on AMD Ryzen AI MAX+: containerized environments for LLMs, Image Generation, and Fine-tuning
 - [Strix Halo Wiki](https://strixhalo.wiki/) - a website to gather important information and practical guides for systems powered by AMD Ryzen AI MAX and MAX+ processors
+- <img src="https://img.shields.io/github/stars/paudley/ai-notes?style=social" height="17" align="texttop"/> [ai-notes](https://github.com/paudley/ai-notes) - random AI notes for working with local models or playing around with random machine learning bits
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -491,6 +522,7 @@ Improves Code Generation](https://arxiv.org/pdf/2604.01193)
 
 ### Miscellaneous
 
+- <img src="https://img.shields.io/github/stars/jamesob/local-llm?style=social" height="17" align="texttop"/> [local-llm](https://github.com/jamesob/local-llm) - everything jamesob knows about running LLMs locally
 - [Self-hosted AI coding that just works](https://www.reddit.com/r/LocalLLaMA/comments/1lt4y1z/selfhosted_ai_coding_that_just_works/)
 
 [Back to Table of Contents](#table-of-contents)
