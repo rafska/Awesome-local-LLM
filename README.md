@@ -283,6 +283,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/badboysm890/ClaraVerse?style=social" height="17" align="texttop"/> [ClaraVerse](https://github.com/badboysm890/ClaraVerse) - privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/NeMo-Agent-Toolkit?style=social" height="17" align="texttop"/> [NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) - an open-source library for efficiently connecting and optimizing teams of AI agents
 - <img src="https://img.shields.io/github/stars/deepsense-ai/ragbits?style=social" height="17" align="texttop"/> [ragbits](https://github.com/deepsense-ai/ragbits) - building blocks for rapid development of GenAI applications
+- <img src="https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social" height="17" align="texttop"/> [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - local-first agent runtime with OpenAI-compatible local model endpoints, durable sessions, sandboxed tools, MCP, audit, and replay
 
 [Back to Table of Contents](#table-of-contents)
 
