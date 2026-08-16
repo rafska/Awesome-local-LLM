@@ -251,6 +251,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Models
 
+- <img src="https://img.shields.io/github/stars/Amazed-Labs/llm-pqr?style=social" height="17" align="texttop"/> [LLM-PQR](https://github.com/Amazed-Labs/llm-pqr) - provider-neutral CLI that ranks local and hosted models using measured quality, latency, token rates, capabilities, and hard locality requirements
 - <img src="https://img.shields.io/github/stars/AlexsJones/llmfit?style=social" height="17" align="texttop"/> [llmfit](https://github.com/AlexsJones/llmfit) - hundreds of models & providers, one command to find what runs on your hardware
 - <img src="https://img.shields.io/github/stars/dottxt-ai/outlines?style=social" height="17" align="texttop"/> [outlines](https://github.com/dottxt-ai/outlines) - structured outputs for LLMs
 - <img src="https://img.shields.io/github/stars/mostlygeek/llama-swap?style=social" height="17" align="texttop"/> [llama-swap](https://github.com/mostlygeek/llama-swap) - reliable model swapping for any local OpenAI compatible server - llama.cpp, vllm, etc.
