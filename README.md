@@ -110,6 +110,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
 - [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale
 - <img src="https://img.shields.io/github/stars/IBM/vakra?style=social" height="17" align="texttop"/> [vakra](https://github.com/IBM/vakra) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
+- [DeepSeek-R1 vs Gemini 3.6 Flash: Local AI Benchmarks](https://www.praveentechworld.com/blog/deepseek-r1-vs-gemini-3-6-flash-local-ai-benchmarks) - hands-on developer benchmarks comparing DeepSeek-R1 local quantized models against Gemini 3.6 Flash on 8GB VRAM hardware
 
 [Back to Table of Contents](#table-of-contents)
 
