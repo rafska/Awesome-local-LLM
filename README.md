@@ -95,6 +95,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social" height="17" align="texttop"/> [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users
 - <img src="https://img.shields.io/github/stars/n4ze3m/page-assist?style=social" height="17" align="texttop"/> [Page Assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 
+- <img src="https://img.shields.io/github/stars/jayamitkatariya/personacli?style=social" height="17" align="texttop"/> [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes and tasks as plain Markdown, with an AI chat grounded in your own files
+
 [Back to Table of Contents](#table-of-contents)
 
 ## Large Language Models
