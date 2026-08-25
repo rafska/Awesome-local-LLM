@@ -46,6 +46,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ## Inference platforms
 
 - [LM Studio](https://lmstudio.ai/) - discover, download and run local LLMs
+-[SynapseAI](https://synapse-bot.netlify.app/) - Local-first AI agent with file/web/browser automation and peer-to-peer model-update sharing. Fully local inference, no cloud dependency.
 - <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" height="17" align="texttop"/> [unsloth](https://github.com/unslothai/unsloth) -  unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally
 - <img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" height="17" align="texttop"/> [LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others
 - <img src="https://img.shields.io/github/stars/menloresearch/jan?style=social" height="17" align="texttop"/> [jan](https://github.com/menloresearch/jan) - an open source alternative to ChatGPT that runs 100% offline on your computer
