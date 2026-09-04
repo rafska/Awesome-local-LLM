@@ -58,6 +58,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" height="17" align="texttop"/> [ollama](https://github.com/ollama/ollama) - get up and running with LLMs
 - <img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social" height="17" align="texttop"/> [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+- <img src="https://img.shields.io/github/stars/shyringo/qwen3.8-flash-next-in-c?style=social" height="17" align="texttop"/> [qwen3.8-flash-next-in-c](https://github.com/shyringo/qwen3.8-flash-next-in-c) - run Qwen3.8-Flash-Next on a single laptop CPU with native C and near-10 exact batch throughput
 - <img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social" height="17" align="texttop"/> [vllm](https://github.com/vllm-project/vllm) - a high-throughput and memory-efficient inference and serving engine for LLMs
 - <img src="https://img.shields.io/github/stars/exo-explore/exo?style=social" height="17" align="texttop"/> [exo](https://github.com/exo-explore/exo) - run your own AI cluster at home with everyday devices
 - <img src="https://img.shields.io/github/stars/microsoft/BitNet?style=social" height="17" align="texttop"/> [BitNet](https://github.com/microsoft/BitNet) - official inference framework for 1-bit LLMs
