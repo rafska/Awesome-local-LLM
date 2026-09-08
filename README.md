@@ -130,7 +130,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 #### General purpose
 
 - [DeepSeek-V4](https://huggingface.co/collections/deepseek-ai/deepseek-v4) - a collection of the DeepSeek V4 LLMs
-- [Qwen3.6](https://huggingface.co/collections/Qwen/qwen36) - a collection of the latest generation Qwen LLMs
+- [Qwen3.8](https://huggingface.co/collections/Qwen/qwen38) - a collection of the latest generation Qwen LLMs
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [NVIDIA Nemotron v3](https://huggingface.co/collections/nvidia/nvidia-nemotron-v3) - a family of open models from NVIDIA with open weights, training data and recipes, delivering leading efficiency and accuracy for building specialized AI agents
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [Gemma 4](https://huggingface.co/collections/google/gemma-4) - a family of open models built by Google DeepMind, that are multimodal, handling text and image input (with audio supported on small models) and generating text output
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mistral Medium 3.5](https://huggingface.co/collections/mistralai/mistral-medium-35) - The first flaship models from Mistral AI handling instruction-following, reasoning, and coding in a single set of opened-weights
