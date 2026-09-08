@@ -297,6 +297,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/awslabs/mcp?style=social" height="17" align="texttop"/> [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP
 - <img src="https://img.shields.io/github/stars/sooperset/mcp-atlassian?style=social" height="17" align="texttop"/> [mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - <img src="https://img.shields.io/github/stars/bytebase/dbhub?style=social" height="17" align="texttop"/> [dbhub](https://github.com/bytebase/dbhub) - zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite
+- <img src="https://img.shields.io/github/stars/abhinaykrupa/cowork-to-code-bridge?style=social" height="17" align="texttop"/> [cowork-to-code-bridge](https://github.com/abhinaykrupa/cowork-to-code-bridge) - async file-based MCP bridge that exposes Claude Code on your local machine to any MCP client or agent framework (CrewAI, AutoGen, LlamaIndex, n8n) — no open ports, HMAC token auth, per-operation metrics, loop detection, macOS/Linux/WSL2
 
 [Back to Table of Contents](#table-of-contents)
 
