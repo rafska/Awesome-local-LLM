@@ -373,6 +373,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Testing, Evaluation and Observability
 
 - <img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" height="17" align="texttop"/> [langfuse](https://github.com/langfuse/langfuse) - an open-source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more
+- <img src="https://img.shields.io/github/stars/maximhq/bifrost?style=social" height="17" align="texttop"/> [Bifrost](https://github.com/maximhq/bifrost) - a self-hosted, OpenAI-compatible gateway with multi-provider routing, failover, semantic caching, governance, and observability, including Ollama support
 - <img src="https://img.shields.io/github/stars/comet-ml/opik?style=social" height="17" align="texttop"/> [opik](https://github.com/comet-ml/opik) - debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards
 - <img src="https://img.shields.io/github/stars/traceloop/openllmetry?style=social" height="17" align="texttop"/> [openllmetry](https://github.com/traceloop/openllmetry) - an open-source observability for your LLM application, based on OpenTelemetry
 - <img src="https://img.shields.io/github/stars/Giskard-AI/giskard?style=social" height="17" align="texttop"/> [giskard](https://github.com/Giskard-AI/giskard) - an open-source evaluation & testing for AI & LLM systems
