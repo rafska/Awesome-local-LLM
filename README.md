@@ -391,6 +391,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/langchain-ai/local-deep-researcher?style=social" height="17" align="texttop"/> [local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - fully local web research and report writing assistant
 - <img src="https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=social" height="17" align="texttop"/> [local-deep-research](https://github.com/LearningCircuit/local-deep-research) - an AI-powered research assistant for deep, iterative research
 - <img src="https://img.shields.io/github/stars/murtaza-nasir/maestro?style=social" height="17" align="texttop"/> [maestro](https://github.com/murtaza-nasir/maestro) - an AI-powered research application designed to streamline complex research tasks
+- <img src="https://img.shields.io/github/stars/tunabirgun/litehouse?style=social" height="17" align="texttop"/> [Litehouse](https://github.com/tunabirgun/litehouse) - a browser-only literature-review assistant that retrieves from open scholarly APIs and writes an evidence-locked, cited synthesis with a local WebGPU model, entirely in the browser
 
 [Back to Table of Contents](#table-of-contents)
 
