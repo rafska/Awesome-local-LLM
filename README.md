@@ -205,6 +205,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Streaming Sortformer Diarizer 4spk v2.1](https://huggingface.co/nvidia/diar_streaming_sortformer_4spk-v2.1) - a streaming version of a novel end-to-end neural model for speaker diarization from NVIDIA
 
 [Back to Table of Contents](#table-of-contents)
+- [FunASR](https://github.com/modelscope/FunASR) - an open-source speech toolkit from Alibaba (SenseVoice, Paraformer, Fun-ASR-Nano) for multilingual ASR with leading Chinese & Cantonese accuracy; includes a llama.cpp / GGUF runtime to run the models locally on CPU with a single binary (no Python, no GPU)
 
 #### Retrieval-Augmented Generation
 
