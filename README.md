@@ -6,6 +6,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Inference platforms](#inference-platforms)
 - [Inference engines](#inference-engines)
 - [User Interfaces](#user-interfaces)
+  - [Terminal & TUI](#terminal--tui)
 - [Large Language Models](#large-language-models)
   - [Explorers, Benchmarks, Leaderboards](#explorers-benchmarks-leaderboards)
   - [Model providers](#model-providers)
@@ -32,6 +33,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
   - [Training and Fine-tuning](#training-and-fine-tuning)
   - [Security and Sandboxing](#security-and-sandboxing)
   - [Miscellaneous](#miscellaneous-1)
+- [Domain-Specific Applications](#domain-specific-applications)
 - [Hardware](#hardware)
 - [Tutorials](#tutorials)
   - [Models](#models-1)
@@ -94,6 +96,15 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social" height="17" align="texttop"/> [Text generation web UI](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support
 - <img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social" height="17" align="texttop"/> [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users
 - <img src="https://img.shields.io/github/stars/n4ze3m/page-assist?style=social" height="17" align="texttop"/> [Page Assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
+
+### Terminal & TUI
+
+For keyboard-centric workflows, remote servers, or anywhere a browser-based UI isn't practical — terminal and TUI clients bring local LLMs to the command line.
+
+- <img src="https://img.shields.io/github/stars/TheR1D/shell_gpt?style=social" height="17" align="texttop"/> [shell_gpt](https://github.com/TheR1D/shell_gpt) - a command-line productivity tool powered by local and cloud LLMs; generates shell commands, code snippets and answers directly in your terminal, with Ollama support
+- <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social" height="17" align="texttop"/> [aichat](https://github.com/sigoden/aichat) - all-in-one LLM CLI tool with shell assistant, Chat-REPL, RAG, AI tools and agents; supports Ollama and many other backends; written in Rust
+- <img src="https://img.shields.io/github/stars/ggozad/oterm?style=social" height="17" align="texttop"/> [oterm](https://github.com/ggozad/oterm) - a terminal UI client for Ollama with persistent chat sessions, model switching, and multimodal support
+- <img src="https://img.shields.io/github/stars/psfr4590-afk/ANARCHY?style=social" height="17" align="texttop"/> [ANARCHY](https://github.com/psfr4590-afk/ANARCHY) - a local AI shell with persistent memory, FAISS vector search, a skills/tool-use system, and multi-model routing; runs entirely offline via Ollama
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -433,6 +444,14 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/minitap-ai/mobile-use?style=social" height="17" align="texttop"/> [mobile-use](https://github.com/minitap-ai/mobile-use) - a powerful, open-source AI agent that controls your Android or IOS device using natural language
 - <img src="https://img.shields.io/github/stars/gabber-dev/gabber?style=social" height="17" align="texttop"/> [gabber](https://github.com/gabber-dev/gabber) - build AI applications that can see, hear, and speak using your screens, microphones, and cameras as inputs
 - <img src="https://img.shields.io/github/stars/sevenreasons/promptcat?style=social" height="17" align="texttop"/> [promptcat](https://github.com/sevenreasons/promptcat) - a zero-dependency prompt manager/catalog/library in a single HTML file
+
+[Back to Table of Contents](#table-of-contents)
+
+## Domain-Specific Applications
+
+Purpose-built applications that apply local LLMs to a particular real-world domain — distinct from generic chat UIs and infrastructure tooling. This section is intentionally sparse; contributions of domain-specific local LLM applications are especially welcome.
+
+- <img src="https://img.shields.io/github/stars/psfr4590-afk/Harmless-?style=social" height="17" align="texttop"/> [Harmless-](https://github.com/psfr4590-afk/Harmless-) - a privacy-first harm reduction assistant: offline AI chat (Ollama), Narcan/needle exchange/clinic finder via OpenStreetMap, drug interaction checker, and dose calculator — zero cloud, zero accounts, zero data leaving the device
 
 [Back to Table of Contents](#table-of-contents)
 
