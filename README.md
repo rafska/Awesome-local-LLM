@@ -203,6 +203,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [VibeVoice](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) - a collection of frontier text-to-speech models from Microsoft
 - [Kitten TTS](https://huggingface.co/KittenML/models) - a collection of open-source realistic text-to-speech models designed for lightweight deployment and high-quality voice synthesis
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Streaming Sortformer Diarizer 4spk v2.1](https://huggingface.co/nvidia/diar_streaming_sortformer_4spk-v2.1) - a streaming version of a novel end-to-end neural model for speaker diarization from NVIDIA
+- [loudr-1](https://huggingface.co/loudreader/loudr-1) - on-device text-to-speech with 28 voices in 10 languages and voice cloning, plus a faster loudr-1-turbo variant, run by the open-source loudkit engine with native Python, Swift, Go, Rust and TypeScript SDKs
 
 [Back to Table of Contents](#table-of-contents)
 
