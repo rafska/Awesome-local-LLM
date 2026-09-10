@@ -297,6 +297,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/awslabs/mcp?style=social" height="17" align="texttop"/> [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP
 - <img src="https://img.shields.io/github/stars/sooperset/mcp-atlassian?style=social" height="17" align="texttop"/> [mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - <img src="https://img.shields.io/github/stars/bytebase/dbhub?style=social" height="17" align="texttop"/> [dbhub](https://github.com/bytebase/dbhub) - zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite
+- <img src="https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social" height="17" align="texttop"/> [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - MCP server over recorded coding-agent runs: records an agent against any OpenAI-compatible endpoint, including a local one, and replays the run with the model server switched off.
 
 [Back to Table of Contents](#table-of-contents)
 
