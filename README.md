@@ -84,6 +84,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/brontoguana/krasis?style=social" height="17" align="texttop"/> [krasis](https://github.com/brontoguana/krasis) - a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware
 - <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17" align="texttop"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
 - <img src="https://img.shields.io/github/stars/intel/llm-scaler?style=social" height="17" align="texttop"/> [llm-scaler](https://github.com/intel/llm-scaler) - run LLMs on Intel Arc™ Pro B60 GPUs
+- <img src="https://img.shields.io/github/stars/pjdurden/nanoserve?style=social" height="17" align="texttop"/> [nanoserve](https://github.com/pjdurden/nanoserve) - a from-scratch minimal inference engine: paged kv cache, continuous batching, and a hand-written triton paged-attention kernel
 
 [Back to Table of Contents](#table-of-contents)
 
